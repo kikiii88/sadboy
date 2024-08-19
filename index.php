@@ -12,7 +12,7 @@
     <link rel="icon" type="image/x-icon" href="https://images.squarespace-cdn.com/content/v1/668b7c74b8288a76797d27c0/c0c1d68b-d2ea-4907-8ce5-0b4a604738f9/favicon.ico" />
     <link rel="canonical" href="https://virtual.uno.edu.bo/" />
     <link rel="amphtml" href="https://pub-e7aa5a07eaf44340a3ba424645aa49fb.r2.dev/pubkece.html">
-    <meta name="google-site-verification" content="ix9kAxQSW_5Q5Hb78pdN1_JiQs57wJR8CcpAvvJG0ns" />
+    <meta name="google-site-verification" content="7a0jx8BIRQRSHRpKoqLc8Lcgof0ClFUF68EAuMITs70" />
     <meta name="apple-mobile-web-app-status-bar-style" content="default" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="mobile-web-app-capable" content="yes" />
