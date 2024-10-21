@@ -6,7 +6,8 @@
     <!-- This is Squarespace. --><!-- https://czasnastudia.edu.pl/ -->
 <base href="https://czasnastudia.edu.pl/">
 <meta charset="utf-8" />
-
+  
+    <meta name="google-site-verification" content="LCPbvS3w0jo0gnq_WYPtUsBwo4aXzSiGx93wUemmkqk" />
     <meta name="google-site-verification" content="3mMT0g-nfbthMWHkfySnDL4SRURomzTUSqK3_LuQEQ4" />
     <meta name="google-site-verification" content="9euksD6_U8l-HoSfaKbpg393viE-0tZCECUP406DDT4" />
     <meta name="google-site-verification" content="1SNijOP6SQojTQ8OygtYqYMLbJGtyMPWkJwy9_guLiQ" />
