@@ -1753,7 +1753,7 @@ IDR 44,444.00
       </main>
       
          <footer class="sections" id="footer-sections" data-footer-sections>
-<small class="copyright__content">Copyright ©2024 SEO QDL</small>
+<small class="copyright__content">Copyright ©2024 SEO BIAWAK AIR</small>
     </footer>
 
       
