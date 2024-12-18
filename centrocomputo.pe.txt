@@ -2,7 +2,7 @@
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
 <head>
   <meta charset="utf-8" />
-  <title>BANDAR TOTO âœ• Platform Situs Slot Online Resmi Modal Receh Jadi Miliarder</title>
+  <title>BANDAR TOTO ✕ Platform Situs Slot Online Resmi Modal Receh Jadi Miliarder</title>
   <meta name="description" content="BANDAR TOTO dinyatakan sebagai platform situs slot resmi tercanggih masa kini yang memberikan kesempatan emas untuk menjadi miliarder hanya dengan modal receh. Buktikan kehokian anda disini sekarang juga!" />
   <meta name="keywords" content="slot gacor">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
@@ -21,7 +21,7 @@
   <meta name="publisher" content="Slot Online">
   <meta property="og:site_name" content="Slot Online">
   <meta name="og:url" content="https://centrocomputo.pe/" />
-  <meta name="og:title" content="BANDAR TOTO âœ• Platform Situs Slot Online Resmi Modal Receh Jadi Miliarder" />
+  <meta name="og:title" content="BANDAR TOTO ✕ Platform Situs Slot Online Resmi Modal Receh Jadi Miliarder" />
   <meta name="og:type" content="product" />
   <meta name="og:description" content="BANDAR TOTO dinyatakan sebagai platform situs slot resmi tercanggih masa kini yang memberikan kesempatan emas untuk menjadi miliarder hanya dengan modal receh. Buktikan kehokian anda disini sekarang juga!" />
   <meta name="og:image" content="https://goodimg.io/images/2024/11/27/situs-slot-online.jpg" />
@@ -108,7 +108,7 @@
         'action':'aplus.appendMetaInfo',
         'arguments':['aplus-exdata',{"st_page_id":pageid}]
       });
-      // å…¼å®¹è€ç‰ˆæœ¬aplus
+      // 兼容版本aplus
       var gq = (window.goldlog_queue || (window.goldlog_queue = []));
       gq.push({
         'action':'goldlog.appendMetaInfo',
@@ -130,7 +130,7 @@
       start: Date.now(),
     };
     var dataLayer = window.dataLayer || [];
-    var pdpTrackingData = "{\"pdt_category\":[\"Televisi & Video\"],\"pagetype\":\"pdp\",\"pdt_discount\":\"\",\"pdt_photo\":\"//img/situs-slot-gacor-hari-ini.webp\",\"v_voya\":1,\"brand_name\":\"BANDAR TOTO âœ• Platform Situs Slot Online Resmi Modal Receh Jadi Miliarder\",\"brand_id\":\"20000\",\"pdt_sku\":20000,\"core\":{\"country\":\"ID\",\"layoutType\":\"desktop\",\"language\":\"ID\",\"currencyCode\":\"IDR\"},\"seller_name\":\"\",\"pdt_simplesku\":20000,\"pdt_name\":\"BANDAR TOTO âœ• Platform Situs Slot Online Resmi Modal Receh Jadi Miliarder]\",\"page\":{\"regCategoryId\":\"300300002584\",\"xParams\":\"_p_typ=pdp&_p_ispdp=1&_p_item=20000_ID-20000&_p_prod=20000&_p_sku=20000&_p_slr=\"},\"supplier_id\":\"\",\"pdt_price\":\"Rp20.000\"}";
+    var pdpTrackingData = "{\"pdt_category\":[\"Televisi & Video\"],\"pagetype\":\"pdp\",\"pdt_discount\":\"\",\"pdt_photo\":\"//img/situs-slot-gacor-hari-ini.webp\",\"v_voya\":1,\"brand_name\":\"BANDAR TOTO ✕ Platform Situs Slot Online Resmi Modal Receh Jadi Miliarder\",\"brand_id\":\"20000\",\"pdt_sku\":20000,\"core\":{\"country\":\"ID\",\"layoutType\":\"desktop\",\"language\":\"ID\",\"currencyCode\":\"IDR\"},\"seller_name\":\"\",\"pdt_simplesku\":20000,\"pdt_name\":\"BANDAR TOTO ✕ Platform Situs Slot Online Resmi Modal Receh Jadi Miliarder]\",\"page\":{\"regCategoryId\":\"300300002584\",\"xParams\":\"_p_typ=pdp&_p_ispdp=1&_p_item=20000_ID-20000&_p_prod=20000&_p_sku=20000&_p_slr=\"},\"supplier_id\":\"\",\"pdt_price\":\"Rp20.000\"}";
     try {
       pdpTrackingData = JSON.parse(pdpTrackingData);
       pdpTrackingData.v_voya = false;
@@ -145,7 +145,7 @@
       }
     }
     /**
-     * æ”¯æŒbeacon aplus script
+     * 支beacon aplus script
      */
     var siteNameForApluPluginLoader = "Lazada";
 
@@ -655,7 +655,7 @@
 </svg>
   <script type="text/javascript" id="beacon-aplus" src="https://g.lazcdn.com/g/alilog/mlog/aplus_int.js" exparams="clog=o&aplus&sidx=aplusSidx&ckx=aplusCkx" async defer></script>
     <script type="application/ld+json">
-    {"@type":"Product","@context":"https://schema.org","name":"BANDAR TOTO âœ• Platform Situs Slot Online Resmi Modal Receh Jadi Miliarder","image":"https://goodimg.io/images/2024/11/27/situs-slot-online.jpg","category":"Games","brand":{"@type":"Brand","name":"Slot Online","url":"https://centrocomputo.pe/"},"sku":"20000","mpn":20000,"description":"BANDAR TOTO dinyatakan sebagai platform situs slot resmi tercanggih masa kini yang memberikan kesempatan emas untuk menjadi miliarder hanya dengan modal receh. Buktikan kehokian anda disini sekarang juga!","url":"https://centrocomputo.pe/","offers":{"@type":"Offer","url":"https://centrocomputo.pe/","seller":{"@type":"Organization","name":""},"priceCurrency":"IDR","price":20000,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
+    {"@type":"Product","@context":"https://schema.org","name":"BANDAR TOTO ✕ Platform Situs Slot Online Resmi Modal Receh Jadi Miliarder","image":"https://goodimg.io/images/2024/11/27/situs-slot-online.jpg","category":"Games","brand":{"@type":"Brand","name":"Slot Online","url":"https://centrocomputo.pe/"},"sku":"20000","mpn":20000,"description":"BANDAR TOTO dinyatakan sebagai platform situs slot resmi tercanggih masa kini yang memberikan kesempatan emas untuk menjadi miliarder hanya dengan modal receh. Buktikan kehokian anda disini sekarang juga!","url":"https://centrocomputo.pe/","offers":{"@type":"Offer","url":"https://centrocomputo.pe/","seller":{"@type":"Organization","name":""},"priceCurrency":"IDR","price":20000,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
   </script>
 <script type="application/ld+json" data-rh="true">
       {
@@ -694,7 +694,7 @@
           "position": 5,
           "item": {
             "@id": "https://centrocomputo.pe/",
-            "name": "BANDAR TOTO âœ• Platform Situs Slot Online Resmi Modal Receh Jadi Miliarder"
+            "name": "BANDAR TOTO ✕ Platform Situs Slot Online Resmi Modal Receh Jadi Miliarder"
           }
         }]
       }
@@ -759,7 +759,7 @@
       'action':'aplus.appendMetaInfo',
       'arguments':['aplus-exdata',{"st_page_id":pageid}]
     });
-    // å…¼å®¹è€ç‰ˆæœ¬aplus
+    // 兼容老本aplus
     var gq = (window.goldlog_queue || (window.goldlog_queue = []));
     gq.push({
       'action':'goldlog.appendMetaInfo',
@@ -3395,9 +3395,9 @@ if (!lzdDocCookies.getItem('t_uid')) {
 .pdp-product-title .pdp-mod-product-badge-title {color:#ffd700}
   </style>
   <div id="container" style="visibility: visible;">
-    <div id="root" class="pdp-block" data-reactroot=""><div id="module_core" class="pdp-block module"><p></p></div><div id="block-r3bZB9J63C" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div id="block-9uUVSSMxTb" class="pdp-block pdp-block__main-information"><div id="block-W59OjAyxSy" class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="BANDAR TOTO âœ• Platform Situs Slot Online Resmi Modal Receh Jadi Miliarder" src="https://goodimg.io/images/2024/11/27/situs-slot-online.jpg"/></div></div><div class="next-slick next-slick-outer next-slick-horizontal item-gallery-slider"><div class="next-slick-inner next-slick-initialized" draggable="true"><div class="next-slick-list"><div class="next-slick-track"><div style="outline:none;width:52px" class="next-slick-slide next-slick-active next-slick-cloned item-gallery__thumbnail item-gallery__thumbnail_state_active" lazada_pdp_gallery_tpp_track="gallery" main_image_number="1" data-index="0" tabindex="-1"></div></div></div><div data-role="none" class="next-slick-arrow next-slick-prev outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-left next-icon-medium"></i></div><div data-role="none" class="next-slick-arrow next-slick-next outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-right next-icon-medium"></i></div></div></div></div></div></div><div id="block-n8THsmEaVS" class="pdp-block pdp-block__main-information-detail"><div id="block-6QhDn4z1db" class="pdp-block"><div id="block-ssuYrXSucaM" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">BANDAR TOTO âœ• Platform Situs Slot Online Resmi Modal Receh Jadi Miliarder</h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-C7wdxsrWYA0" class="pdp-block pdp-block__rating-questions-summary"><div id="block-qkzkCPtx4vZ" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/></div><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">108.888 Penilaian</a></div></div></div><div id="block-ztlO6gvyRIv" class="pdp-block pdp-block__share"><div id="block--PRjoF98du4" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"></div></div><div id="block-7fC8S_Z8DDj" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module"><div class="pdp-product-brand"><span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://centrocomputo.pe/">Slot Online</a><div class="pdp-product-brand__divider"></div><div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://olx.avatar-amp.info/centrocomputo.pe/"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j"><span class="pdp-button-text">LOGIN</span></button></a><a href="https://olx.avatar-amp.info/centrocomputo.pe/" target="_blank"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl"><span class="pdp-button-text"><span class="">DAFTAR SEKARANG</span></span></button></a><form method="post" action=""><input name="buyParams" type="hidden" value="{&quot;items&quot;:[{&quot;itemId&quot;:&quot;20000&quot;,&quot;skuId&quot;:&quot;20000&quot;,&quot;quantity&quot;:1,&quot;attributes&quot;:null}]}"></form></div></div></div><div id="module_product_attrs" class="pdp-block module"></div><div id="block-cKVxLtoIbl2" class="pdp-block module"></div><div id="module_product_price_1" class="pdp-block module"><div class="pdp-mod-product-price">
+    <div id="root" class="pdp-block" data-reactroot=""><div id="module_core" class="pdp-block module"><p></p></div><div id="block-r3bZB9J63C" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div id="block-9uUVSSMxTb" class="pdp-block pdp-block__main-information"><div id="block-W59OjAyxSy" class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="BANDAR TOTO ✕ Platform Situs Slot Online Resmi Modal Receh Jadi Miliarder" src="https://goodimg.io/images/2024/11/27/situs-slot-online.jpg"/></div></div><div class="next-slick next-slick-outer next-slick-horizontal item-gallery-slider"><div class="next-slick-inner next-slick-initialized" draggable="true"><div class="next-slick-list"><div class="next-slick-track"><div style="outline:none;width:52px" class="next-slick-slide next-slick-active next-slick-cloned item-gallery__thumbnail item-gallery__thumbnail_state_active" lazada_pdp_gallery_tpp_track="gallery" main_image_number="1" data-index="0" tabindex="-1"></div></div></div><div data-role="none" class="next-slick-arrow next-slick-prev outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-left next-icon-medium"></i></div><div data-role="none" class="next-slick-arrow next-slick-next outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-right next-icon-medium"></i></div></div></div></div></div></div><div id="block-n8THsmEaVS" class="pdp-block pdp-block__main-information-detail"><div id="block-6QhDn4z1db" class="pdp-block"><div id="block-ssuYrXSucaM" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">BANDAR TOTO ✕ Platform Situs Slot Online Resmi Modal Receh Jadi Miliarder</h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-C7wdxsrWYA0" class="pdp-block pdp-block__rating-questions-summary"><div id="block-qkzkCPtx4vZ" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/></div><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">108.888 Penilaian</a></div></div></div><div id="block-ztlO6gvyRIv" class="pdp-block pdp-block__share"><div id="block--PRjoF98du4" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"></div></div><div id="block-7fC8S_Z8DDj" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module"><div class="pdp-product-brand"><span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://centrocomputo.pe/">Slot Online</a><div class="pdp-product-brand__divider"></div><div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://olx.avatar-amp.info/centrocomputo.pe/"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j"><span class="pdp-button-text">LOGIN</span></button></a><a href="https://olx.avatar-amp.info/centrocomputo.pe/" target="_blank"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl"><span class="pdp-button-text"><span class="">DAFTAR SEKARANG</span></span></button></a><form method="post" action=""><input name="buyParams" type="hidden" value="{&quot;items&quot;:[{&quot;itemId&quot;:&quot;20000&quot;,&quot;skuId&quot;:&quot;20000&quot;,&quot;quantity&quot;:1,&quot;attributes&quot;:null}]}"></form></div></div></div><div id="module_product_attrs" class="pdp-block module"></div><div id="block-cKVxLtoIbl2" class="pdp-block module"></div><div id="module_product_price_1" class="pdp-block module"><div class="pdp-mod-product-price">
 
-    <h1><strong>BANDAR TOTO âœ• Platform Situs Slot Online Resmi Modal Receh Jadi Miliarder</strong></h1>
+    <h1><strong>BANDAR TOTO ✕ Platform Situs Slot Online Resmi Modal Receh Jadi Miliarder</strong></h1>
     <p>Selamat datang di <a href="https://centrocomputo.pe/">BANDAR TOTO</a>! Kami sudah dikenal dan diikuti ribuan sampe jutawan orang sebagai platform situs yang berlisensi resmi. Sebagai situs resmi, tentunya kami berpartisipasi bersama provider terkemuka masa kini yang menyajikan aneka ragam jenis permainan <a href="https://centrocomputo.pe/">slot online</a> dengan teknologi tercanggih. Dengan popularitas terbesar, kami menghadirkan fitur unggulan khususnya bagian RTP Slot tinggi yang bertujuan meningkatkan kesempatan emas anda untuk mendapatkan keuntungan miliarder di sini hanya dengan modal receh. Selain itu, anda juga bisa merasakan berbagai tawaran bonus promosi yang kami sediakan seperti cashback mingguan, bonus freespin, bonus new member dan masih banyak bonus lainnya. Dengan sistem yang aman serta proses setoran dan pencairan secepat kilat, kami juga memberikan pengalaman bermain yang sangat menyerukan dan tak terlupakan untuk semua para pemain slot disini. Dapatkan kesempatan emas sekarang juga untuk menjadi miliarder di tahun ini bersama situs BANDAR SLOT!</p>
 
 <div class="pdp-product-price" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdUG5ius">Rp.10.000</span><div class="origin-block" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_deleted pdp-price_color_lightgray pdp-price_size_xs">Rp.50.000</span></div></div></div></div><div id="module_redmart_product_price" class="pdp-block module"></div><div id="module_promotion_tags" class="pdp-block module"></div><div id="module_installment" class="pdp-block module"></div><div id="module_quantity-input" class="pdp-block module"><div class="pdp-mod-product-info-section sku-quantity-selection" bis_skin_checked="1"><h6 class="section-title">Kuantitas</h6><div class="section-content" bis_skin_checked="1"><div class="next-number-picker next-number-picker-inline" bis_skin_checked="1"><div class="next-number-picker-handler-wrap" bis_skin_checked="1"><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-up "><span unselectable="unselectable" class="next-number-picker-handler-up-inner"><i class="next-icon next-icon-add next-icon-medium"></i></span></a><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-down next-number-picker-handler-down-disabled"><span unselectable="unselectable" class="next-number-picker-handler-down-inner"><i class="next-icon next-icon-minus next-icon-medium"></i></span></a></div><div class="next-number-picker-input-wrap" bis_skin_checked="1"><span class="next-input next-input-single next-input-medium next-number-picker-input"><input min="1" max="5" step="1" autocomplete="off" type="text" height="100%" value="1"></span></div></div><span class="quantity-content-default"></span></div></div></div><div id="module_sms-phone-input" class="pdp-block module"></div><div id="module_add_to_cart" class="pdp-block module" bis_skin_checked="1"></div><div id="module_redmart_add_to_cart" class="pdp-block module"></div></div><div id="block-O-HF3LN4YVI" class="pdp-block pdp-block__delivery-seller"><div id="module_seller_delivery" class="pdp-block module"><div data-spm="delivery_options" data-nosnippet="true"></div></div><div id="module_redmart_delivery" class="pdp-block module"></div><div id="module_seller_warranty" class="pdp-block module"></div><div id="module_guide_app" class="pdp-block module"></div><div id="module_redmart_service" class="pdp-block module"></div><div id="module_seller_info" class="pdp-block module"><div class="seller-container" data-spm="seller"><div class="seller-name"><div class="seller-name__wrapper"><div class="seller-name__title">Dijual Oleh BANDAR TOTO</div><div class="seller-name__detail" data-spm="seller"><a class="pdp-link pdp-link_size_l pdp-link_theme_black seller-name__detail-name"></a></div></div></div><div class="pdp-seller-info-pc"></div></div></div><div id="module_redmart_seller_info" class="pdp-block module"></div></div></div></div></div></div>
@@ -3436,10 +3436,10 @@ if (!lzdDocCookies.getItem('t_uid')) {
   function reportMtopData() {
       if (window.__wpk && window.__pdpMtopStartTime) {
         window.__wpk.report({
-          category: 111, //åˆ›å»ºç›‘æŽ§é¡¹æ—¶ï¼ŒèŽ·å¾—çš„"ç›‘æŽ§ä»£ç "
-          msg: 'PDP CSR MTOP API Success Rate', //ä½ è¦ä¸ŠæŠ¥çš„å†…å®¹
-          w_succ: window.__pdpMtopStatus || 0, // å¯é€‰ï¼Œè‹¥ç›‘æŽ§é¡¹éœ€è¦ç›‘æŽ§çŽ‡ï¼Œåˆ™è®¾ç½®æ­¤å­—æ®µå¯é€‰ä¸º0ã€1
-          wl_avgv1: window.__pdpMtopEndTime ? window.__pdpMtopEndTime - window.__pdpMtopStartTime : 0, // å¯é€‰ï¼Œè‹¥ç›‘æŽ§é¡¹éœ€è¦ç›‘æŽ§å‡å€¼ï¼Œåˆ™è®¾ç½®æ¬¡æ­¤å­—æ®µï¼Œå¿…é¡»ä¸ºæ•°å­—
+          category: 111, //创建监控项时，得的"监控代码"
+          msg: 'PDP CSR MTOP API Success Rate', //你要上报的内容
+          w_succ: window.__pdpMtopStatus || 0, // 可选，若控项需要监控率，则设置此字段可选为0、1
+          wl_avgv1: window.__pdpMtopEndTime ? window.__pdpMtopEndTime - window.__pdpMtopStartTime : 0, // 可选，若监控项需监控均值，则设置次此段，必须为数字
           c1: window.__regionID__
         })
       }
@@ -3448,9 +3448,9 @@ if (!lzdDocCookies.getItem('t_uid')) {
   function reportMtopData2() {
       if (window.__wpk && window.__pdpTriggerCSR) {
         window.__wpk.report({
-          category: 112, //åˆ›å»ºç›‘æŽ§é¡¹æ—¶ï¼ŒèŽ·å¾—çš„"ç›‘æŽ§ä»£ç "
-          msg: 'PDP CSR MTOP API Trigger Rate', //ä½ è¦ä¸ŠæŠ¥çš„å†…å®¹
-          w_succ: window.__pdpTriggerMtopStatus, // å¯é€‰ï¼Œè‹¥ç›‘æŽ§é¡¹éœ€è¦ç›‘æŽ§çŽ‡ï¼Œåˆ™è®¾ç½®æ­¤å­—æ®µå¯é€‰ä¸º0ã€1
+          category: 112, //创建监控项时，获的"监控代码"
+          msg: 'PDP CSR MTOP API Trigger Rate', //你要上报的内容
+          w_succ: window.__pdpTriggerMtopStatus, // 可选，若控项需要监控率，则设此字段可选为0、1
           c1: window.__regionID__
         })
       }
@@ -3459,9 +3459,9 @@ if (!lzdDocCookies.getItem('t_uid')) {
   function reportMtopData3() {
     if (window.__wpk) {
       window.__wpk.report({
-        category: 113, //åˆ›å»ºç›‘æŽ§é¡¹æ—¶ï¼ŒèŽ·å¾—çš„"ç›‘æŽ§ä»£ç "
-        msg: 'PDP CSR Hydrate Success Rate', //ä½ è¦ä¸ŠæŠ¥çš„å†…å®¹
-        w_succ: window.__pdpHydrateStatus || 0, // å¯é€‰ï¼Œè‹¥ç›‘æŽ§é¡¹éœ€è¦ç›‘æŽ§çŽ‡ï¼Œåˆ™è®¾ç½®æ­¤å­—æ®µå¯é€‰ä¸º0ã€1
+        category: 113, //创建监控项时，得的"监控代码"
+        msg: 'PDP CSR Hydrate Success Rate', //你要上报的内容
+        w_succ: window.__pdpHydrateStatus || 0, // 可选，若监项需要监控率，则设置此字段可选为0、1
         c1: window.__regionID__
       })
     }
@@ -3477,7 +3477,7 @@ if (!lzdDocCookies.getItem('t_uid')) {
         console.log('start run...')
         app.run(__moduleData__, function() {
           timings.render = Date.now();
-          // è¹¦å¤±æ‰“ç‚¹
+          // 蹦失打点
           // window.goldlog && window.goldlog.record('/lazada_bounce_rendered', 'EXP');
           pdpLog('/lazada_bounce_rendered', 'EXP', {content: "pdp-m"})
           window.__pdpHydrateStatus = 1;
@@ -3657,7 +3657,7 @@ if (!lzdDocCookies.getItem('t_uid')) {
           <a href="//group.lazada.com/en/about/">Tentang Lazada</a>
       </li>
       <li class="footer-li">
-          <a href="//pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/partnership/AffiliatesID">Afï¬liate Program</a>
+          <a href="//pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/partnership/AffiliatesID">Afliate Program</a>
       </li>
       <li class="footer-li">
           <a href="//www.lazada.com/work-at-lazada/">Karir</a>
@@ -3777,7 +3777,7 @@ if (!lzdDocCookies.getItem('t_uid')) {
   </div>
   <div class="lzd-footer-width-25">
     <div class="lzd-footer-copyright">
-    Â© BANDAR TOTO
+    © BANDAR TOTO
     </div>
   </div>
 </div>
@@ -3836,7 +3836,7 @@ window.onload = function() {
     </div>
 
   <!-- end footer -->
-  <!-- æ»‘å—éªŒè¯ç ç»„ä»¶ -->
+  <!-- 滑块验证码组 -->
   <script src="//aeis.alicdn.com/sd/ncpc/nc.js?t=18507" defer async></script>
   <script>
   define('@ali/wpk-reporter', [], function() {
