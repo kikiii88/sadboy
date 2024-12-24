@@ -1,0 +1,3 @@
+User-Agent: *
+Allow: /index.php
+Sitemap: https://iestpdv.edu.pe/sitemap.xml
