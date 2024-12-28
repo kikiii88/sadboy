@@ -2,9 +2,6 @@
 <!DOCTYPE HTML>
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
 <head>
-  <meta name="google-site-verification" content="pa5HRgE1H225h06XQBlt1AzaBWFnqvj8g-bsVq6Qczg" />
-  <meta name="google-site-verification" content="LiNZI4iayVeS7PuieuCmPXunv5XDPFtFD4xOP18nHVA" />
-  <meta name="google-site-verification" content="EhqEYWs_0rMGtZ1asbi6pP0a_dahYzI1CQGcTP1iZrU" />
   <meta charset="utf-8" />
   <title>OLXTOTO 5D | Official Agen Bandar Toto Macau Terpercaya Top Rank Tahun 2025</title>
   <meta name="description" content="OLXTOTO merupakan agen bandar toto macau 5d resmi terpercaya yang telah menduduki peringkat paling top teratas di Indonesia pada tahun baru 2025. Bergabunglah untuk mendapatkan jackpot paus sekarang juga hanya di sini!" />
@@ -20,7 +17,7 @@
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://goodimg.io/images/2024/09/19/icon.jpg" />
   <link rel="canonical" href="https://qadturkiye.com/" />
-  <link rel="amphtml" href="https://qadturkiye.com/amp.html" />
+  <link rel="amphtml" href="/amp.html" />
   <meta name="google-site-verification" content="yyQ7E3fTDdLi3K_Ot-r-0G3xC8xkhVzIzuyKIfaYR3A" />
   <!-- start preload -->
   <link rel="preload" href="https://goodimg.io/images/2024/07/31/naga.jpg" as="image" />
