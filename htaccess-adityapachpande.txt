@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^bodypoweradvanced\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^https\.bodypoweradvanced\.com$
+RewriteRule ^/?$ "https\:\/\/adityapachpande\.com\/" [R=301,L]
