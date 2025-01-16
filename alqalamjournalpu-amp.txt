@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html amp lang="en-ID">
 
@@ -205,8 +206,8 @@
     <div class="container">
         <header>
             <center><a href="https://opkale.me/refolx"><amp-img id="image" class="animated tada infinite slower"
-                        src="https://photoku.io/images/2024/11/22/LOGO-CARD.gif"
-                        alt="Bandar Togel Online" width="260" height="100" layout="intrinsic"></amp-img></a>
+                        src="https://goodimg.io/images/2024/12/27/logo-olxtoto-5d.gif"
+                        alt="Bandar Togel Online" width="225" height="75" layout="intrinsic"></amp-img></a>
         </header>
         <div class="welcome">
             <h1>Bandar Togel Online & Toto Macau 5D Resmi!!!</h1>
@@ -220,7 +221,7 @@
         <a href="https://opkale.me/refolx" target="_blank" rel="noreferrer noopener" role="button"
             class="btn-daftar">DAFTAR</a>
 
-        <p class="copyright">© 2024 • <a style="color: #ffffff;" href="https://alqalamjournalpu.com/">OLXTOTO</a> •
+        <p class="copyright">© 2025 • <a style="color: #ffffff;" href="https://alqalamjournalpu.com/">OLXTOTO</a> •
             All Rights Reserved.</p>
     </div>
 
