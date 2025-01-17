@@ -1,0 +1,3 @@
+User-Agent: *
+Allow: /index.php
+Sitemap: https://methodist-tamora.sch.id/sitemap.xml
