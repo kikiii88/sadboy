@@ -30,4 +30,6 @@
 <li><a href="https://www.ac-studio.ru/"rel="dofollow">www.ac-studio.ru</a></li>
 <li><a href="https://indopajak.id/"rel="dofollow">indopajak.id</a></li>
 <li><a href="http://sman1tbn.melajah.id/"rel="dofollow">sman1tbn.melajah.id</a></li>
+<li><a href="https://zankarstudios.com/"rel="dofollow">zankarstudios.com</a></li>
+<li><a href="https://plataforma.fundeec.org/"rel="dofollow">plataforma.fundeec.org</a></li>
 </div>
