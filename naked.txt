@@ -38,4 +38,5 @@
 <li><a href="https://www.sc.gob.sv/"rel="dofollow">www.sc.gob.sv</a></li>
 <li><a href="https://faccfm.unitru.edu.pe/"rel="dofollow">faccfm.unitru.edu.pe</a></li>
 <li><a href="https://telecomunicaciones.estudiafpadistancia.com/"rel="dofollow">telecomunicaciones.estudiafpadistancia.com</a></li>
+<li><a href="https://synergyindonesia.id/"rel="dofollow">synergyindonesia.id</a></li>
 </div>
