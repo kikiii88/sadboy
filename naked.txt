@@ -42,4 +42,7 @@
 <li><a href="https://bnnoticiastv.com/"rel="dofollow">bnnoticiastv.com</a></li>
 <li><a href="https://jhcs.stikesholistic.ac.id/"rel="dofollow">jhcs.stikesholistic.ac.id</a></li>
 <li><a href="https://moodle.puskas.hu/"rel="dofollow">moodle.puskas.hu</a></li>
+<li><a href="https://www.jornal.unimontes.br/"rel="dofollow">www.jornal.unimontes.br</a></li>
+<li><a href="https://elearning.ismonitor.ac.mz/"rel="dofollow">elearning.ismonitor.ac.mz</a></li>
+<li><a href="https://learn.academyforhealthcoaching.co.uk/"rel="dofollow">learn.academyforhealthcoaching.co.uk</a></li>
 </div>
