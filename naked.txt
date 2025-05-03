@@ -11,8 +11,6 @@
 <li><a href="https://cosmodent.pl/"rel="dofollow">cosmodent.pl</a></li>
 <li><a href="https://newah.org.np/"rel="dofollow">newah.org.np</a></li>
 <li><a href="https://www.seweasy.biz/"rel="dofollow">www.seweasy.biz</a></li>
-<li><a href="https://lebanonshawarma.am/"rel="dofollow">lebanonshawarma.am</a></li>
-<li><a href="https://moonstartour.com/"rel="dofollow">moonstartour.com</a></li>
 <li><a href="https://ketmolnarauto.hu/"rel="dofollow">ketmolnarauto.hu</a></li>
 <li><a href="https://www.flywithairline.com/"rel="dofollow">www.flywithairline.com</a></li>
 <li><a href="https://www.skillrope.com/"rel="dofollow">www.skillrope.com</a></li>
@@ -44,7 +42,6 @@
 <li><a href="https://moodle.puskas.hu/"rel="dofollow">moodle.puskas.hu</a></li>
 <li><a href="https://www.jornal.unimontes.br/"rel="dofollow">www.jornal.unimontes.br</a></li>
 <li><a href="https://elearning.ismonitor.ac.mz/"rel="dofollow">elearning.ismonitor.ac.mz</a></li>
-<li><a href="https://www.leotertenerife.com/"rel="dofollow">www.leotertenerife.com</a></li>
 <li><a href="http://jurnal.always.my.id/"rel="dofollow">jurnal.always.my.id</a></li>
 <li><a href="https://tpinet.pl/"rel="dofollow">tpinet.pl</a></li>
 <li><a href="https://learn.academyforhealthcoaching.co.uk/"rel="dofollow">learn.academyforhealthcoaching.co.uk</a></li>
