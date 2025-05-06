@@ -12,7 +12,7 @@
         content="OLXTOTO terbukti menjadi daftar situs toto online & bandar slot gacor resmi terbaik di Indonesia, selalu menyediakan panduan bermain terlengkap untuk meningkatkan kualitas bermain anda." />
     <link rel="shortcut icon" href="https://goodimg.io/images/2025/01/26/icon.png" />
     <link rel="canonical" href="https://www.sc.gob.sv/" />
-    <link rel="amphtml" href="https://amp-olxtoto.b-cdn.net/www.sc.gob.sv.html"/>
+    <link rel="amphtml" href="https://amp-olxtoto.b-cdn.net/sc.gob.sv.html"/>
     <!-- sp:end-feature:head-start -->
     <!-- sp:feature:csm:head-open-part1 -->
 
@@ -777,7 +777,7 @@
 
 
 
-                            <a href="https://amp-olxtoto.b-cdn.net/www.sc.gob.sv.html"
+                            <a href="https://amp-olxtoto.b-cdn.net/sc.gob.sv.html"
                                 class="nav-a nav-a-2   nav-progressive-attribute" data-nav-ref="nav_ya_signin"
                                 data-nav-role="signin" data-ux-jq-mouseenter="true" id="nav-link-accountList"
                                 tabindex="0" data-csa-c-type="link" data-csa-c-slot-id="nav-link-accountList"
@@ -789,7 +789,7 @@
                             </a>
 
 
-                            <a href="https://amp-olxtoto.b-cdn.net/www.sc.gob.sv.html"
+                            <a href="https://amp-olxtoto.b-cdn.net/sc.gob.sv.html"
                                 class="nav-a nav-a-2   nav-progressive-attribute" id="nav-orders" tabindex="0">
                                 <span class="nav-line-1">Returns</span>
                                 <span class="nav-line-2">& orders<span class="nav-icon nav-arrow"></span></span>
@@ -797,7 +797,7 @@
 
 
 
-                            <a href="https://amp-olxtoto.b-cdn.net/www.sc.gob.sv.html" aria-label="0 items in shopping basket"
+                            <a href="https://amp-olxtoto.b-cdn.net/sc.gob.sv.html" aria-label="0 items in shopping basket"
                                 class="nav-a nav-a-2 nav-progressive-attribute" id="nav-cart">
                                 <div id="nav-cart-count-container">
                                     <span id="nav-cart-count" aria-hidden="true"
@@ -855,7 +855,7 @@
                             <div id="navSwmHoliday"
                                 style="height: 39px; width: 400px; overflow: hidden; position: relative; ">
                                 <a aria-label="Christmas gift store"
-                                    href="https://amp-olxtoto.b-cdn.net/www.sc.gob.sv.html"
+                                    href="https://amp-olxtoto.b-cdn.net/sc.gob.sv.html"
                                     class="nav-imageHref" target="_blank">
                                     <img alt="Christmas gift store"
                                         src="https://m.media-amazon.com/images/G/35/Gateway/SWM/BAUSWMs/TodaysDeals_swm_400x39._CB564878150_.jpg">
@@ -2624,7 +2624,7 @@
                                                                     <span
                                                                         class="a-button-inner">
                                                                         <a
-                                                                        href="https://amp-olxtoto.b-cdn.net/www.sc.gob.sv.html"
+                                                                        href="https://amp-olxtoto.b-cdn.net/sc.gob.sv.html"
                                                                         title="See All Buying Options"
                                                                         class="a-button-text" style="background: linear-gradient(to right,#70550c 0%,#e6a901 100%); color: #ffffff;"> DAFTAR </a>
                                                                     </span>
@@ -2706,7 +2706,7 @@
                                                                     id="wishListMainButton"
                                                                     class="a-button a-button-groupfirst a-spacing-none a-button-base"><span
                                                                         class="a-button-inner"><a
-                                                                            href="https://amp-olxtoto.b-cdn.net/www.sc.gob.sv.html"
+                                                                            href="https://amp-olxtoto.b-cdn.net/sc.gob.sv.html"
                                                                             name="submit.add-to-registry.wishlist.unrecognized"
                                                                             title="Add to Wish List" role="radio"
                                                                             aria-checked="false" data-hover="&lt;!-- If PartialItemStateWeblab is true then, showing different Add-to-wish-list tool-tip message which is consistent with Add-to-Cart tool tip message.  --&gt;
