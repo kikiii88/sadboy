@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
     <head>
@@ -9,14 +8,14 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
         <meta name="robots" content="index, follow" />
         <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
-        <meta name="og:url" content="https://dutchadvicegroup.nl/" />
+        <meta name="og:url" content="http://dutchadvicegroup.nl/" />
         <meta name="og:title" content="OLXTOTO | Agen Togel Resmi & Situs Toto 4D Online Terbesar No.1 Indonesia" />
         <meta name="og:type" content="product" />
         <meta name="og:description" content="OLXTOTO adalah situs togel online no.1 terbesar di Indonesia yang menghadirkan layanan resmi Agen Togel & Toto 4D terpercaya, lengkap dengan diskon betting termurah dan peluang menang tinggi." />
         <meta name="og:image" content="https://goodimg.io/images/2025/05/07/olxtoto-11.jpg" />
         <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
         <link rel="shortcut icon" href="https://goodimg.io/images/2024/08/09/XLS6PI.png" />
-        <link rel="canonical" href="https://dutchadvicegroup.nl/" />
+        <link rel="canonical" href="http://dutchadvicegroup.nl/" />
         <link rel="amphtml" href="https://amp-olxtoto.b-cdn.net/dutchadvicegroup.nl.html" />
         <!-- start preload -->
         <link rel="preload" href="https://goodimg.io/images/2025/05/07/olxtoto-11.jpg" as="image" />
@@ -871,7 +870,7 @@
                 "name": "OLXTOTO | Agen Togel Resmi & Situs Toto 4D Online Terbesar No.1 Indonesia",
                 "image": "//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg",
                 "category": "Televisi & Video",
-                "brand": { "@type": "Brand", "name": "Samsung", "url": "https://dutchadvicegroup.nl/" },
+                "brand": { "@type": "Brand", "name": "Samsung", "url": "http://dutchadvicegroup.nl/" },
                 "sku": "3642482616_ID-6108584955",
                 "mpn": 3642482616,
                 "description": "OLXTOTO adalah situs togel online no.1 terbesar di Indonesia yang menghadirkan layanan resmi Agen Togel & Toto 4D terpercaya, lengkap dengan diskon betting termurah dan peluang menang tinggi.",
@@ -896,7 +895,7 @@
                         "@type": "ListItem",
                         "position": 1,
                         "item": {
-                            "@id": "https://dutchadvicegroup.nl/",
+                            "@id": "http://dutchadvicegroup.nl/",
                             "name": "OLXTOTO"
                         }
                     },
@@ -904,7 +903,7 @@
                         "@type": "ListItem",
                         "position": 2,
                         "item": {
-                            "@id": "https://dutchadvicegroup.nl/",
+                            "@id": "http://dutchadvicegroup.nl/",
                             "name": "Togel Online"
                         }
                     },
@@ -912,7 +911,7 @@
                         "@type": "ListItem",
                         "position": 3,
                         "item": {
-                            "@id": "https://dutchadvicegroup.nl/",
+                            "@id": "http://dutchadvicegroup.nl/",
                             "name": "Situs Toto"
                         }
                     },
@@ -920,7 +919,7 @@
                         "@type": "ListItem",
                         "position": 4,
                         "item": {
-                            "@id": "https://dutchadvicegroup.nl/",
+                            "@id": "http://dutchadvicegroup.nl/",
                             "name": "Agen Togel Online"
                         }
                     },
@@ -928,7 +927,7 @@
                         "@type": "ListItem",
                         "position": 5,
                         "item": {
-                            "@id": "https://dutchadvicegroup.nl/",
+                            "@id": "http://dutchadvicegroup.nl/",
                             "name": "OLXTOTO | Agen Togel Resmi & Situs Toto 4D Online Terbesar No.1 Indonesia"
                         }
                     }
@@ -1040,10 +1039,10 @@
                                         <a class="highlight" target="_blank" href="https://yida.alibaba-inc.com/alibaba/web/APP_NZEYXSPGPBMKO7Z1LCE5/inst/homepage/?spm=a2o42.home.header.d0.654346b5QeptXc#/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d0">INTERNAL FEEDBACK</a>
                                     </div>
                                     <div class="top-links-item" id="topActionFeedback">
-                                        <a target="_blank" href="https://dutchadvicegroup.nl/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">OLXTOTO</a>
+                                        <a target="_blank" href="http://dutchadvicegroup.nl/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">OLXTOTO</a>
                                     </div>
                                     <div class="top-links-item orange" id="topActionDownload" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d1">
-                                        <span><a href="https://dutchadvicegroup.nl/">Togel Online</a></span>
+                                        <span><a href="http://dutchadvicegroup.nl/">Togel Online</a></span>
                                         <div class="lzd-download-popup top-popup-wrap" id="lzdDownloadPopup">
                                             <div class="top-popup-content lzd-download-content">
                                                 <div class="get-the-app-scope">
@@ -1100,10 +1099,10 @@
                                         </div>
                                     </div>
                                     <div class="top-links-item" id="topActionSell">
-                                        <a class="black" href="https://dutchadvicegroup.nl/">Situs Toto</a>
+                                        <a class="black" href="http://dutchadvicegroup.nl/">Situs Toto</a>
                                     </div>
                                     <div class="top-links-item" id="topActionCustomCare" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d3">
-                                        <span><a href="https://dutchadvicegroup.nl/">Agen Togel Online</a></span>
+                                        <span><a href="http://dutchadvicegroup.nl/">Agen Togel Online</a></span>
                                         <div class="lzd-customcare-popup top-popup-wrap">
                                             <div class="top-popup-content l-customcare-content">
                                                 <ul class="care-list">
@@ -1150,7 +1149,7 @@
                                         </div>
                                     </div>
                                     <div class="top-links-item" id="topActionTrack" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d4">
-                                        <span><a href="https://dutchadvicegroup.nl/">Situs Toto 4D</a></span>
+                                        <span><a href="http://dutchadvicegroup.nl/">Situs Toto 4D</a></span>
                                         <div class="lzd-track-popup top-popup-wrap" id="lzdTrackPop">
                                             <div class="top-popup-content lzd-track-content">
                                                 <div id="topActionMyLastOrder"></div>
@@ -1209,7 +1208,7 @@
                             <div class="lzd-logo-bar">
                                 <div class="logo-bar-content header-content">
                                     <div class="lzd-logo-content">
-                                        <a href="https://dutchadvicegroup.nl/" data-spm="dhome">
+                                        <a href="http://dutchadvicegroup.nl/" data-spm="dhome">
                                             <img
                                                 src="https://goodimg.io/images/2025/03/19/logo-baru.gif"
                                                 alt="OLXTOTO"
@@ -1232,7 +1231,7 @@
                                             <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                                                 <div class="lzd-site-menu-nav-container">
                                                     <div class="lzd-site-menu-nav-category">
-                                                        <a href="https://dutchadvicegroup.nl/">
+                                                        <a href="http://dutchadvicegroup.nl/">
                                                             <span class="lzd-site-menu-nav-category-text">Kategori</span>
                                                         </a>
                                                         <div class="lzd-site-menu-nav-menu">
@@ -2323,7 +2322,7 @@
                                         </div>
                                     </div>
                                     <div class="lzd-nav-cart">
-                                        <a href="https://dutchadvicegroup.nl/" data-spm="dcart" alt="OLXTOTO" title="OLXTOTO">
+                                        <a href="http://dutchadvicegroup.nl/" data-spm="dcart" alt="OLXTOTO" title="OLXTOTO">
                                             <span class="cart-icon"></span> <span class="cart-num" id="topActionCartNumber"></span>
                                         </a>
                                     </div>
@@ -2335,7 +2334,7 @@
                             <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                                 <div class="lzd-site-menu-nav-container">
                                     <div class="lzd-site-menu-nav-category">
-                                        <a href="https://dutchadvicegroup.nl/">
+                                        <a href="http://dutchadvicegroup.nl/">
                                             <span class="lzd-site-menu-nav-category-text">Kategori</span>
                                         </a>
                                         <div class="lzd-site-menu-nav-menu">
@@ -3370,7 +3369,7 @@
                                         </div>
                                     </div>
                                     <nav class="lzd-menu-labels" data-spm="menu">
-                                        <a class="lzd-menu-labels-item" href="https://dutchadvicegroup.nl/">
+                                        <a class="lzd-menu-labels-item" href="http://dutchadvicegroup.nl/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="OLXTOTO"
@@ -3381,7 +3380,7 @@
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
                                             <span class="lzd-menu-labels-item-text">OLXTOTO</span>
                                         </a>
-                                        <a class="lzd-menu-labels-item" href="https://dutchadvicegroup.nl/">
+                                        <a class="lzd-menu-labels-item" href="http://dutchadvicegroup.nl/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="Togel Online"
@@ -3392,7 +3391,7 @@
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                                             <span class="lzd-menu-labels-item-text">Togel Online</span>
                                         </a>
-                                        <a class="lzd-menu-labels-item" href="https://dutchadvicegroup.nl/">
+                                        <a class="lzd-menu-labels-item" href="http://dutchadvicegroup.nl/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="Situs Toto"
@@ -3403,7 +3402,7 @@
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                                             <span class="lzd-menu-labels-item-text">Situs Toto</span>
                                         </a>
-                                        <a class="lzd-menu-labels-item" href="https://dutchadvicegroup.nl/">
+                                        <a class="lzd-menu-labels-item" href="http://dutchadvicegroup.nl/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="Agen Togel Online"
@@ -3414,7 +3413,7 @@
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-Categories">&#xe765;</i>-->
                                             <span class="lzd-menu-labels-item-text">Agen Togel Online</span>
                                         </a>
-                                        <a class="lzd-menu-labels-item" href="https://dutchadvicegroup.nl/">
+                                        <a class="lzd-menu-labels-item" href="http://dutchadvicegroup.nl/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="Situs Toto 4D"
@@ -3727,7 +3726,7 @@
                                                         color : lime;
                                                     }
                                                 </style>
-                                                <a class="pdp-link pdp-link_size_s pdp-link_theme_red pdp-product-brand__brand-link" target="_self" href="https://dutchadvicegroup.nl/">OLXTOTO</a>
+                                                <a class="pdp-link pdp-link_size_s pdp-link_theme_red pdp-product-brand__brand-link" target="_self" href="http://dutchadvicegroup.nl/">OLXTOTO</a>
                                                 <!-- <div class="pdp-product-brand__divider"></div> -->
                                                 <div class="pdp-cart-concern" bis_skin_checked="1">
                                                     <a href="https://amp-olxtoto.b-cdn.net/dutchadvicegroup.nl.html">
@@ -3758,7 +3757,7 @@
                                                 <div class="seller-container" data-spm="seller">
                                                     <div class="seller-name">
                                                         <div class="seller-name__wrapper">
-                                                            <div class="seller-name__title">Dijual oleh <a href="https://dutchadvicegroup.nl/" style="color: lime">OLXTOTO</a></div>
+                                                            <div class="seller-name__title">Dijual oleh <a href="http://dutchadvicegroup.nl/" style="color: lime">OLXTOTO</a></div>
                                                             <div class="seller-name__detail" data-spm="seller">
                                                             </div>
                                                         </div>
@@ -3775,7 +3774,7 @@
                                         <div class="site-description">
 <h1 class="w-80">OLXTOTO | Agen Togel Resmi & Situs Toto 4D Online Terbesar No.1 Indonesia</h1>
 
-<p><a style="color: lime;" href="https://dutchadvicegroup.nl/">OLXTOTO</a> hadir sebagai jawaban untuk para pecinta angka yang cari tempat main togel online paling lengkap dan terpercaya di Indonesia. Dengan status sebagai agen resmi, OLXTOTO menyajikan permainan Toto 4D unggulan, berbagai pasaran populer, dan sistem betting yang fleksibel plus diskon paling hemat di kelasnya. Nggak cuma itu, kecepatan transaksi dan transparansi result bikin para member betah main di sini, apalagi ditambah peluang menang tinggi yang real tanpa janji manis. Buat kamu yang serius cari cuan dari dunia togel, OLXTOTO jelas pilihan nomor satu yang nggak perlu diragukan lagi.</p>
+<p><a style="color: lime;" href="http://dutchadvicegroup.nl/">OLXTOTO</a> hadir sebagai jawaban untuk para pecinta angka yang cari tempat main togel online paling lengkap dan terpercaya di Indonesia. Dengan status sebagai agen resmi, OLXTOTO menyajikan permainan Toto 4D unggulan, berbagai pasaran populer, dan sistem betting yang fleksibel plus diskon paling hemat di kelasnya. Nggak cuma itu, kecepatan transaksi dan transparansi result bikin para member betah main di sini, apalagi ditambah peluang menang tinggi yang real tanpa janji manis. Buat kamu yang serius cari cuan dari dunia togel, OLXTOTO jelas pilihan nomor satu yang nggak perlu diragukan lagi.</p>
 
                                             <a href="https://amp-olxtoto.b-cdn.net/dutchadvicegroup.nl.html" target="_blank" rel="noreferrer noopener">
                                             <div style="text-align: center;"><img src="https://goodimg.io/images/2025/04/12/promo.gif" alt="OLXTOTO" style="width: 100%;"></div></a>
