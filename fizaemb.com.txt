@@ -4,7 +4,7 @@
         <meta charset="utf-8" />
         <title>OLXTOTO - Info Situs Togel Online & Toto Macau 4D Dengan Prediksi Akurat</title>
         <meta name="description" content="OLXTOTO hadir sebagai salah satu situs Toto Macau & Toto Macau 4D yang menyediakan jenis pasaran togel terlengkap disertai dengan info prediksi semua pasaran togel paling akurat 99% di Indonesia." />
-        <meta name="keywords" content="olxtotoolxtoto, olxtoto togel, olxtoto macau, togel online, toto macau, toto 4d, situs togel online, toto macau 4d, togel online 4d" />
+        <meta name="keywords" content="olxtoto, olxtoto togel, olxtoto macau, togel online, toto macau, toto 4d, situs togel online, toto macau 4d, togel online 4d" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
         <meta name="robots" content="index, follow" />
         <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
