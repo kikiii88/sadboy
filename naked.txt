@@ -69,4 +69,6 @@
 <a href="https://midman.se/"rel="dofollow">midman.se</a>
 <a href="http://www.mamun.uz/"rel="dofollow">www.mamun.uz</a>
 <a href="https://fizaemb.com/"rel="dofollow">fizaemb.com</a>
+<a href="https://plataforma.facpp.edu.br/"rel="dofollow">plataforma.facpp.edu.br</a>
+<a href="https://picanco.lab.nuvem.online/"rel="dofollow">picanco.lab.nuvem.online</a>
 </div>
