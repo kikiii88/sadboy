@@ -8,6 +8,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
         <meta name="robots" content="index, follow" />
         <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
+        <meta name="google-site-verification" content="SMC5EaFjz_UmSDlg6x3h8nx_sxiwmOxW1fKtIAAFDBk" />
         <meta name="og:url" content="https://lansotechsolutions.co.ke/" />
         <meta name="og:title" content="OLXTOTO | Link Main Togel Online & Toto Macau Paling Aman Serta Mudah Menang" />
         <meta name="og:type" content="product" />
