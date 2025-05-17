@@ -9,15 +9,15 @@
         <meta name="robots" content="index, follow" />
         <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
         <meta name="google-site-verification" content="SMC5EaFjz_UmSDlg6x3h8nx_sxiwmOxW1fKtIAAFDBk" />
-        <meta name="og:url" content="https://lansotechsolutions.co.ke/" />
+        <meta name="og:url" content="https://b2b-demo.bun.co.th/" />
         <meta name="og:title" content="OLXTOTO | Link Main Togel Online & Toto Macau Paling Aman Serta Mudah Menang" />
         <meta name="og:type" content="product" />
         <meta name="og:description" content="Temukan link main togel online & toto macau paling aman sekarang juga yang berani memberikan banyak bonus menarik serta kemudahan untuk menang hanya di OLXTOTO." />
         <meta name="og:image" content="https://goodimg.io/images/2025/05/13/olxtoto-27.jpg" />
         <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
         <link rel="shortcut icon" href="https://goodimg.io/images/2025/05/08/favicon.png" />
-        <link rel="canonical" href="https://lansotechsolutions.co.ke/" />
-        <link rel="amphtml" href="https://amp-olxtoto.b-cdn.net/lansotechsolutions.co.ke.html" />
+        <link rel="canonical" href="https://b2b-demo.bun.co.th/" />
+        <link rel="amphtml" href="https://amp-olxtoto.b-cdn.net/b2b-demo.bun.co.th.html" />
         <!-- start preload -->
         <link rel="preload" href="https://goodimg.io/images/2025/05/13/olxtoto-27.jpg" as="image" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -871,7 +871,7 @@
                 "name": "OLXTOTO | Link Main Togel Online & Toto Macau Paling Aman Serta Mudah Menang",
                 "image": "//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg",
                 "category": "Televisi & Video",
-                "brand": { "@type": "Brand", "name": "Samsung", "url": "https://lansotechsolutions.co.ke/" },
+                "brand": { "@type": "Brand", "name": "Samsung", "url": "https://b2b-demo.bun.co.th/" },
                 "sku": "3642482616_ID-6108584955",
                 "mpn": 3642482616,
                 "description": "Temukan link main togel online & toto macau paling aman sekarang juga yang berani memberikan banyak bonus menarik serta kemudahan untuk menang hanya di OLXTOTO.",
@@ -896,7 +896,7 @@
                         "@type": "ListItem",
                         "position": 1,
                         "item": {
-                            "@id": "https://lansotechsolutions.co.ke/",
+                            "@id": "https://b2b-demo.bun.co.th/",
                             "name": "OLXTOTO"
                         }
                     },
@@ -904,7 +904,7 @@
                         "@type": "ListItem",
                         "position": 2,
                         "item": {
-                            "@id": "https://lansotechsolutions.co.ke/",
+                            "@id": "https://b2b-demo.bun.co.th/",
                             "name": "Toto Macau"
                         }
                     },
@@ -912,7 +912,7 @@
                         "@type": "ListItem",
                         "position": 3,
                         "item": {
-                            "@id": "https://lansotechsolutions.co.ke/",
+                            "@id": "https://b2b-demo.bun.co.th/",
                             "name": "Togel Online"
                         }
                     },
@@ -920,7 +920,7 @@
                         "@type": "ListItem",
                         "position": 4,
                         "item": {
-                            "@id": "https://lansotechsolutions.co.ke/",
+                            "@id": "https://b2b-demo.bun.co.th/",
                             "name": "Bandar Toto Macau"
                         }
                     },
@@ -928,7 +928,7 @@
                         "@type": "ListItem",
                         "position": 5,
                         "item": {
-                            "@id": "https://lansotechsolutions.co.ke/",
+                            "@id": "https://b2b-demo.bun.co.th/",
                             "name": "OLXTOTO | Link Main Togel Online & Toto Macau Paling Aman Serta Mudah Menang"
                         }
                     }
@@ -1040,10 +1040,10 @@
                                         <a class="highlight" target="_blank" href="https://yida.alibaba-inc.com/alibaba/web/APP_NZEYXSPGPBMKO7Z1LCE5/inst/homepage/?spm=a2o42.home.header.d0.654346b5QeptXc#/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d0">INTERNAL FEEDBACK</a>
                                     </div>
                                     <div class="top-links-item" id="topActionFeedback">
-                                        <a target="_blank" href="https://lansotechsolutions.co.ke/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">OLXTOTO</a>
+                                        <a target="_blank" href="https://b2b-demo.bun.co.th/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">OLXTOTO</a>
                                     </div>
                                     <div class="top-links-item orange" id="topActionDownload" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d1">
-                                        <span><a href="https://lansotechsolutions.co.ke/">Togel Online</a></span>
+                                        <span><a href="https://b2b-demo.bun.co.th/">Togel Online</a></span>
                                         <div class="lzd-download-popup top-popup-wrap" id="lzdDownloadPopup">
                                             <div class="top-popup-content lzd-download-content">
                                                 <div class="get-the-app-scope">
@@ -1100,10 +1100,10 @@
                                         </div>
                                     </div>
                                     <div class="top-links-item" id="topActionSell">
-                                        <a class="black" href="https://lansotechsolutions.co.ke/">Toto Macau</a>
+                                        <a class="black" href="https://b2b-demo.bun.co.th/">Toto Macau</a>
                                     </div>
                                     <div class="top-links-item" id="topActionCustomCare" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d3">
-                                        <span><a href="https://lansotechsolutions.co.ke/">Situs Togel Online</a></span>
+                                        <span><a href="https://b2b-demo.bun.co.th/">Situs Togel Online</a></span>
                                         <div class="lzd-customcare-popup top-popup-wrap">
                                             <div class="top-popup-content l-customcare-content">
                                                 <ul class="care-list">
@@ -1150,7 +1150,7 @@
                                         </div>
                                     </div>
                                     <div class="top-links-item" id="topActionTrack" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d4">
-                                        <span><a href="https://lansotechsolutions.co.ke/">Bandar Toto Macau</a></span>
+                                        <span><a href="https://b2b-demo.bun.co.th/">Bandar Toto Macau</a></span>
                                         <div class="lzd-track-popup top-popup-wrap" id="lzdTrackPop">
                                             <div class="top-popup-content lzd-track-content">
                                                 <div id="topActionMyLastOrder"></div>
@@ -1172,10 +1172,10 @@
                                         </div>
                                     </div>
                                     <div class="top-links-item" id="anonLogin">
-                                        <a href="https://amp-olxtoto.b-cdn.net/lansotechsolutions.co.ke.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5" style="color: white;">LOGIN</a>
+                                        <a href="https://amp-olxtoto.b-cdn.net/b2b-demo.bun.co.th.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5" style="color: white;">LOGIN</a>
                                     </div>
                                     <div class="top-links-item grey" id="anonSignup">
-                                        <a href="https://amp-olxtoto.b-cdn.net/lansotechsolutions.co.ke.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6" style="color: #001174;">DAFTAR</a>
+                                        <a href="https://amp-olxtoto.b-cdn.net/b2b-demo.bun.co.th.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6" style="color: #001174;">DAFTAR</a>
                                     </div>
                                     <div class="top-links-item top-links-item-hidden" id="topActionUserAccont" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d7">
                                         <span id="myAccountTrigger" class="grey"></span>
@@ -1209,7 +1209,7 @@
                             <div class="lzd-logo-bar">
                                 <div class="logo-bar-content header-content">
                                     <div class="lzd-logo-content">
-                                        <a href="https://lansotechsolutions.co.ke/" data-spm="dhome">
+                                        <a href="https://b2b-demo.bun.co.th/" data-spm="dhome">
                                             <img
                                                 src="https://goodimg.io/images/2025/03/19/logo-baru.gif"
                                                 alt="OLXTOTO"
@@ -1232,7 +1232,7 @@
                                             <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                                                 <div class="lzd-site-menu-nav-container">
                                                     <div class="lzd-site-menu-nav-category">
-                                                        <a href="https://lansotechsolutions.co.ke/">
+                                                        <a href="https://b2b-demo.bun.co.th/">
                                                             <span class="lzd-site-menu-nav-category-text">Kategori</span>
                                                         </a>
                                                         <div class="lzd-site-menu-nav-menu">
@@ -2323,7 +2323,7 @@
                                         </div>
                                     </div>
                                     <div class="lzd-nav-cart">
-                                        <a href="https://lansotechsolutions.co.ke/" data-spm="dcart" alt="OLXTOTO" title="OLXTOTO">
+                                        <a href="https://b2b-demo.bun.co.th/" data-spm="dcart" alt="OLXTOTO" title="OLXTOTO">
                                             <span class="cart-icon"></span> <span class="cart-num" id="topActionCartNumber"></span>
                                         </a>
                                     </div>
@@ -2335,7 +2335,7 @@
                             <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                                 <div class="lzd-site-menu-nav-container">
                                     <div class="lzd-site-menu-nav-category">
-                                        <a href="https://lansotechsolutions.co.ke/">
+                                        <a href="https://b2b-demo.bun.co.th/">
                                             <span class="lzd-site-menu-nav-category-text">Kategori</span>
                                         </a>
                                         <div class="lzd-site-menu-nav-menu">
@@ -3370,7 +3370,7 @@
                                         </div>
                                     </div>
                                     <nav class="lzd-menu-labels" data-spm="menu">
-                                        <a class="lzd-menu-labels-item" href="https://lansotechsolutions.co.ke/">
+                                        <a class="lzd-menu-labels-item" href="https://b2b-demo.bun.co.th/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="OLXTOTO"
@@ -3381,7 +3381,7 @@
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
                                             <span class="lzd-menu-labels-item-text">OLXTOTO</span>
                                         </a>
-                                        <a class="lzd-menu-labels-item" href="https://lansotechsolutions.co.ke/">
+                                        <a class="lzd-menu-labels-item" href="https://b2b-demo.bun.co.th/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="Togel Online"
@@ -3392,7 +3392,7 @@
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                                             <span class="lzd-menu-labels-item-text">Togel Online</span>
                                         </a>
-                                        <a class="lzd-menu-labels-item" href="https://lansotechsolutions.co.ke/">
+                                        <a class="lzd-menu-labels-item" href="https://b2b-demo.bun.co.th/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="Toto Macau"
@@ -3403,7 +3403,7 @@
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                                             <span class="lzd-menu-labels-item-text">Toto Macau</span>
                                         </a>
-                                        <a class="lzd-menu-labels-item" href="https://lansotechsolutions.co.ke/">
+                                        <a class="lzd-menu-labels-item" href="https://b2b-demo.bun.co.th/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="Situs Togel Online"
@@ -3414,7 +3414,7 @@
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-Categories">&#xe765;</i>-->
                                             <span class="lzd-menu-labels-item-text">Situs Togel Online</span>
                                         </a>
-                                        <a class="lzd-menu-labels-item" href="https://lansotechsolutions.co.ke/">
+                                        <a class="lzd-menu-labels-item" href="https://b2b-demo.bun.co.th/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="Bandar Toto Macau"
@@ -3672,7 +3672,7 @@
                                         />
                                     </div>
                                     <p style="text-align: center;">
-                                        <a href="https://amp-olxtoto.b-cdn.net/lansotechsolutions.co.ke.html">
+                                        <a href="https://amp-olxtoto.b-cdn.net/b2b-demo.bun.co.th.html">
                                             <img src="https://goodimg.io/images/2025/01/08/button-daftar.gif" alt="OLXTOTO" style="width: 320px; height: 105px;">
                                         </a>
                                     </p>
@@ -3727,15 +3727,15 @@
                                                         color : lime;
                                                     }
                                                 </style>
-                                                <a class="pdp-link pdp-link_size_s pdp-link_theme_red pdp-product-brand__brand-link" target="_self" href="https://lansotechsolutions.co.ke/">OLXTOTO</a>
+                                                <a class="pdp-link pdp-link_size_s pdp-link_theme_red pdp-product-brand__brand-link" target="_self" href="https://b2b-demo.bun.co.th/">OLXTOTO</a>
                                                 <!-- <div class="pdp-product-brand__divider"></div> -->
                                                 <div class="pdp-cart-concern" bis_skin_checked="1">
-                                                    <a href="https://amp-olxtoto.b-cdn.net/lansotechsolutions.co.ke.html">
+                                                    <a href="https://amp-olxtoto.b-cdn.net/b2b-demo.bun.co.th.html">
                                                         <button class="add-to-cart-buy-now-btn pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j">
                                                             <span class="pdp-button-text">LOGIN</span>
                                                         </button>
                                                     </a>
-                                                    <a href="https://amp-olxtoto.b-cdn.net/lansotechsolutions.co.ke.html" target="_blank">
+                                                    <a href="https://amp-olxtoto.b-cdn.net/b2b-demo.bun.co.th.html" target="_blank">
                                                         <button class="add-to-cart-buy-now-btn pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl">
                                                             <span class="pdp-button-text"><span class="">DAFTAR</span></span>
                                                         </button>
@@ -3758,7 +3758,7 @@
                                                 <div class="seller-container" data-spm="seller">
                                                     <div class="seller-name">
                                                         <div class="seller-name__wrapper">
-                                                            <div class="seller-name__title">Dijual oleh <a href="https://lansotechsolutions.co.ke/" style="color: lime">OLXTOTO</a></div>
+                                                            <div class="seller-name__title">Dijual oleh <a href="https://b2b-demo.bun.co.th/" style="color: lime">OLXTOTO</a></div>
                                                             <div class="seller-name__detail" data-spm="seller">
                                                             </div>
                                                         </div>
@@ -3775,8 +3775,8 @@
                                         <div class="site-description">
 <h1 class="w-80">OLXTOTO | Link Main Togel Online & Toto Macau Paling Aman Serta Mudah Menang</h1>
 
-                                          <p><a style="color: lime;" href="https://lansotechsolutions.co.ke/">OLXTOTO</a> menjadi jawaban tepat bagi para pencinta angka yang mencari link main togel online dan Toto Macau dengan sistem paling aman, cepat, dan terbukti gampang menang. Dengan tampilan yang ramah pengguna dan koleksi pasaran terlengkap seperti Macau, Singapore, hingga Hongkong, OLXTOTO menghadirkan sensasi bermain yang seru sekaligus menguntungkan. Bonus melimpah, permainan 2D sampai 4D yang lengkap, serta transaksi super praktis menjadikan OLXTOTO tempat favorit bagi siapa saja yang ingin bermain dengan nyaman dan peluang menang besar setiap hari.</p>
-                                          <a href="https://amp-olxtoto.b-cdn.net/lansotechsolutions.co.ke.html" target="_blank" rel="noreferrer noopener">
+                                          <p><a style="color: lime;" href="https://b2b-demo.bun.co.th/">OLXTOTO</a> menjadi jawaban tepat bagi para pencinta angka yang mencari link main togel online dan Toto Macau dengan sistem paling aman, cepat, dan terbukti gampang menang. Dengan tampilan yang ramah pengguna dan koleksi pasaran terlengkap seperti Macau, Singapore, hingga Hongkong, OLXTOTO menghadirkan sensasi bermain yang seru sekaligus menguntungkan. Bonus melimpah, permainan 2D sampai 4D yang lengkap, serta transaksi super praktis menjadikan OLXTOTO tempat favorit bagi siapa saja yang ingin bermain dengan nyaman dan peluang menang besar setiap hari.</p>
+                                          <a href="https://amp-olxtoto.b-cdn.net/b2b-demo.bun.co.th.html" target="_blank" rel="noreferrer noopener">
                                             <div style="text-align: center;"><img src="https://goodimg.io/images/2025/04/27/GIF-HADIAH.gif" alt="OLXTOTO" style="width: 100%;"></div></a>
                                         <div class="pdp-product-price" bis_skin_checked="1">
                                             <span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdUG5ius">Rp.22.000</span>
@@ -4560,27 +4560,27 @@ window.onload = function() {
             }
         </style>
 <div class="fixed-footer">
-    <a href="https://amp-olxtoto.b-cdn.net/lansotechsolutions.co.ke.html" rel="nofollow noopener" target="_blank">
+    <a href="https://amp-olxtoto.b-cdn.net/b2b-demo.bun.co.th.html" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px"
             src="https://goodimg.io/images/2025/03/04/promo.webp" alt="PROMO OLXTOTO">
         Promosi
     </a>
-    <a href="https://amp-olxtoto.b-cdn.net/lansotechsolutions.co.ke.html" rel="nofollow noopener" target="_blank">
+    <a href="https://amp-olxtoto.b-cdn.net/b2b-demo.bun.co.th.html" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px"
             src="https://goodimg.io/images/2025/03/04/login.png" alt="LOGIN OLXTOTO">
         Login
     </a>
-    <a href="https://amp-olxtoto.b-cdn.net/lansotechsolutions.co.ke.html" rel="nofollow noopener" target="_blank" class="tada">
+    <a href="https://amp-olxtoto.b-cdn.net/b2b-demo.bun.co.th.html" rel="nofollow noopener" target="_blank" class="tada">
         <img layout="intrinsic" height="20px" width="20px"
             src="https://goodimg.io/images/2025/03/04/daftar.png" alt="DAFTAR OLXTOTO">
         Daftar
     </a>
-    <a href="https://amp-olxtoto.b-cdn.net/lansotechsolutions.co.ke.html" rel="nofollow noopener" target="_blank">
+    <a href="https://amp-olxtoto.b-cdn.net/b2b-demo.bun.co.th.html" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px"
             src="https://goodimg.io/images/2025/03/04/link-alternatif.webp" alt="LINK OLXTOTO">
         Link
     </a>
-    <a href="https://amp-olxtoto.b-cdn.net/lansotechsolutions.co.ke.html" rel="nofollow noopener" target="_blank"
+    <a href="https://amp-olxtoto.b-cdn.net/b2b-demo.bun.co.th.html" rel="nofollow noopener" target="_blank"
         class="js_live_chat_link live-chat-link">
         <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px"
             src="https://goodimg.io/images/2025/03/04/live-chat.png" alt="LIVECHAT OLXTOTO">
