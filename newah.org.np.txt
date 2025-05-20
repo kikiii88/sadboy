@@ -1,24 +1,25 @@
+
 <!DOCTYPE html>
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
     <head>
         <meta charset="utf-8" />
-        <title>OLXTOTO | Situs Toto Online | Toto Macau Spesial Edisi Terbaru Indonesia</title>
-        <meta name="description" content="OLXTOTO diberi sebutan spesial yaitu Situs Toto Online & Toto Macau edisi top terbaru yang terpercaya saat ini di Indonesia, yang menghadirkan jenis pasaran togel terlengkap serta hasil keluaran tercepat." />
-        <meta name="keywords" content="olxtoto, situs olxtoto, olxtoto macau, situs toto, toto online, toto macau, olxtoto toto macau, situs toto online, situs toto macau, bandar toto macau" />
+        <title>OLXTOTO » Situs Toto « Platform Bandar Toto Macau Terpercaya di Indonesia</title>
+        <meta name="description" content="OLXTOTO sudah lama dipercayakan oleh situs toto sebagai platform Bandar Toto Macau terpercaya di Indonesia, telah menjadi pilihan utama pemain untuk bermain togel yang aman dan nyaman." />
+        <meta name="keywords" content="olxtoto, situs toto, toto macau, situs olxtoto, olxtoto login, olxtoto daftar, olxtoto macau, situs toto macau, bandar toto macau, olxtoto link alternatif" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
         <meta name="robots" content="index, follow" />
         <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
         <meta name="og:url" content="https://newah.org.np/" />
-        <meta name="og:title" content="OLXTOTO | Situs Toto Online | Toto Macau Spesial Edisi Terbaru Indonesia" />
+        <meta name="og:title" content="OLXTOTO » Situs Toto « Platform Bandar Toto Macau Terpercaya di Indonesia" />
         <meta name="og:type" content="product" />
-        <meta name="og:description" content="OLXTOTO diberi sebutan spesial yaitu Situs Toto Online & Toto Macau edisi top terbaru yang terpercaya saat ini di Indonesia, yang menghadirkan jenis pasaran togel terlengkap serta hasil keluaran tercepat." />
-        <meta name="og:image" content="https://goodimg.io/images/2025/04/29/olxtoto-toto-macau10.jpg" />
+        <meta name="og:description" content="OLXTOTO sudah lama dipercayakan oleh situs toto sebagai platform Bandar Toto Macau terpercaya di Indonesia, telah menjadi pilihan utama pemain untuk bermain togel yang aman dan nyaman." />
+        <meta name="og:image" content="https://goodimg.io/images/2025/05/15/olxtoto-28.jpg" />
         <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
-        <link rel="shortcut icon" href="https://goodimg.io/images/2025/01/26/icon.png" />
+        <link rel="shortcut icon" href="https://goodimg.io/images/2025/05/08/favicon.png" />
         <link rel="canonical" href="https://newah.org.np/" />
-        <link rel="amphtml" href="https://sgp1.vultrobjects.com/olx/newah-group/index.html" />
+        <link rel="amphtml" href="https://amp-olxtoto.b-cdn.net/newah.org.np.html" />
         <!-- start preload -->
-        <link rel="preload" href="https://goodimg.io/images/2025/04/29/olxtoto-toto-macau10.jpg" as="image" />
+        <link rel="preload" href="https://goodimg.io/images/2025/05/15/olxtoto-28.jpg" as="image" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
         <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
@@ -124,7 +125,7 @@
             var timings = { start: Date.now() };
             var dataLayer = window.dataLayer || [];
             var pdpTrackingData =
-                '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://goodimg.io/images/2025/04/29/olxtoto-toto-macau10.jpg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"OLXTOTO | Situs Toto Online | Toto Macau Spesial Edisi Terbaru Indonesia","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
+                '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://goodimg.io/images/2025/05/15/olxtoto-28.jpg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"OLXTOTO » Situs Toto « Platform Bandar Toto Macau Terpercaya di Indonesia","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
             try {
                 pdpTrackingData = JSON.parse(pdpTrackingData);
                 pdpTrackingData.v_voya = false;
@@ -867,13 +868,13 @@
             {
                 "@type": "Product",
                 "@context": "https://schema.org",
-                "name": "OLXTOTO | Situs Toto Online | Toto Macau Spesial Edisi Terbaru Indonesia",
+                "name": "OLXTOTO » Situs Toto « Platform Bandar Toto Macau Terpercaya di Indonesia",
                 "image": "//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg",
                 "category": "Televisi & Video",
                 "brand": { "@type": "Brand", "name": "Samsung", "url": "https://newah.org.np/" },
                 "sku": "3642482616_ID-6108584955",
                 "mpn": 3642482616,
-                "description": "OLXTOTO diberi sebutan spesial yaitu Situs Toto Online & Toto Macau edisi top terbaru yang terpercaya saat ini di Indonesia, yang menghadirkan jenis pasaran togel terlengkap serta hasil keluaran tercepat.",
+                "description": "OLXTOTO sudah lama dipercayakan oleh situs toto sebagai platform Bandar Toto Macau terpercaya di Indonesia, telah menjadi pilihan utama pemain untuk bermain togel yang aman dan nyaman.",
                 "url": "https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html",
                 "offers": {
                     "@type": "Offer",
@@ -928,7 +929,7 @@
                         "position": 5,
                         "item": {
                             "@id": "https://newah.org.np/",
-                            "name": "OLXTOTO | Situs Toto Online | Toto Macau Spesial Edisi Terbaru Indonesia"
+                            "name": "OLXTOTO » Situs Toto « Platform Bandar Toto Macau Terpercaya di Indonesia"
                         }
                     }
                 ]
@@ -1004,7 +1005,7 @@
                             action: "aplus.appendMetaInfo",
                             arguments: ["aplus-exdata", { st_page_id: pageid }],
                         });
-                        // å…¼å®¹è€ç‰ˆæœ¬aplus
+                        // 兼容老版本aplus
                         var gq = window.goldlog_queue || (window.goldlog_queue = []);
                         gq.push({
                             action: "goldlog.appendMetaInfo",
@@ -1065,9 +1066,9 @@
                                                                         <p>OLXTOTO:</p>
                                                                         <ul>
                                                                             <li>Bandar Toto Macau</li>
-                                                                            <li>Situs Toto Online</li>
+                                                                            <li>Situs Toto Macau</li>
                                                                             <li>Toto Macau</li>
-                                                                            <li>Toto Online</li>
+                                                                            <li>Togel Online</li>
                                                                             <li>Situs Toto</li>
                                                                             <li>OLXTOTO</li>
                                                                         </ul>
@@ -1102,7 +1103,7 @@
                                         <a class="black" href="https://newah.org.np/">Toto Macau</a>
                                     </div>
                                     <div class="top-links-item" id="topActionCustomCare" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d3">
-                                        <span><a href="https://newah.org.np/">Situs Toto Online</a></span>
+                                        <span><a href="https://newah.org.np/">Situs Toto Macau</a></span>
                                         <div class="lzd-customcare-popup top-popup-wrap">
                                             <div class="top-popup-content l-customcare-content">
                                                 <ul class="care-list">
@@ -1153,7 +1154,7 @@
                                         <div class="lzd-track-popup top-popup-wrap" id="lzdTrackPop">
                                             <div class="top-popup-content lzd-track-content">
                                                 <div id="topActionMyLastOrder"></div>
-                                                <div class="track-title">Hadiah Togel Paling Terbesar x9800!</div>
+                                                <div class="track-title">Hadiah Togel Online Paling Terbesar x9800!</div>
                                                 <form class="track-order-form" id="topActionTrackForm">
                                                     <label for="topActionTrackOrderNumber" class="top-input-label">Nomor pesanan:</label>
                                                     <div class="top-input-wrap track-order-input-wrap">
@@ -1171,10 +1172,10 @@
                                         </div>
                                     </div>
                                     <div class="top-links-item" id="anonLogin">
-                                        <a href="https://sgp1.vultrobjects.com/olx/newah-group/index.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5" style="color: white;">LOGIN</a>
+                                        <a href="https://amp-olxtoto.b-cdn.net/newah.org.np.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5" style="color: white;">LOGIN</a>
                                     </div>
                                     <div class="top-links-item grey" id="anonSignup">
-                                        <a href="https://sgp1.vultrobjects.com/olx/newah-group/index.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6" style="color: #001174;">DAFTAR</a>
+                                        <a href="https://amp-olxtoto.b-cdn.net/newah.org.np.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6" style="color: #001174;">DAFTAR</a>
                                     </div>
                                     <div class="top-links-item top-links-item-hidden" id="topActionUserAccont" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d7">
                                         <span id="myAccountTrigger" class="grey"></span>
@@ -2274,7 +2275,7 @@
                                                                 <img
                                                                     alt="Situs Toto"
                                                                     class="lzd-site-nav-menu-iconfont-img"
-                                                                    src="https://goodimg.io/images/2025/01/26/icon.png"
+                                                                    src="https://goodimg.io/images/2025/05/08/favicon.png"
                                                                 />
                                                             </span>
                                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
@@ -2285,7 +2286,7 @@
                                                                 <img
                                                                     alt="Slot 4d"
                                                                     class="lzd-site-nav-menu-iconfont-img"
-                                                                    src="https://goodimg.io/images/2025/01/26/icon.png"
+                                                                    src="https://goodimg.io/images/2025/05/08/favicon.png"
                                                                 />
                                                             </span>
                                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
@@ -2299,7 +2300,7 @@
                                                                 <img
                                                                     alt="bo togel"
                                                                     class="lzd-site-nav-menu-iconfont-img"
-                                                                    src="https://goodimg.io/images/2025/01/26/icon.png"
+                                                                    src="https://goodimg.io/images/2025/05/08/favicon.png"
                                                                 />
                                                             </span>
                                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
@@ -2310,7 +2311,7 @@
                                                                 <img
                                                                     alt="Agen Togel"
                                                                     class="lzd-site-nav-menu-iconfont-img"
-                                                                    src="https://goodimg.io/images/2025/01/26/icon.png"
+                                                                    src="https://goodimg.io/images/2025/05/08/favicon.png"
                                                                 />
                                                             </span>
                                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-Categories">&#xe765;</i>-->
@@ -3374,7 +3375,7 @@
                                                 <img
                                                     alt="OLXTOTO"
                                                     class="lzd-site-nav-menu-iconfont-img"
-                                                    src="https://goodimg.io/images/2025/01/26/icon.png"
+                                                    src="https://goodimg.io/images/2025/05/08/favicon.png"
                                                 />
                                             </span>
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
@@ -3385,7 +3386,7 @@
                                                 <img
                                                     alt="Situs Toto"
                                                     class="lzd-site-nav-menu-iconfont-img"
-                                                    src="https://goodimg.io/images/2025/01/26/icon.png"
+                                                    src="https://goodimg.io/images/2025/05/08/favicon.png"
                                                 />
                                             </span>
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
@@ -3396,7 +3397,7 @@
                                                 <img
                                                     alt="Toto Macau"
                                                     class="lzd-site-nav-menu-iconfont-img"
-                                                    src="https://goodimg.io/images/2025/01/26/icon.png"
+                                                    src="https://goodimg.io/images/2025/05/08/favicon.png"
                                                 />
                                             </span>
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
@@ -3405,20 +3406,20 @@
                                         <a class="lzd-menu-labels-item" href="https://newah.org.np/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
-                                                    alt="Situs Toto Online"
+                                                    alt="Situs Toto Macau"
                                                     class="lzd-site-nav-menu-iconfont-img"
-                                                    src="https://goodimg.io/images/2025/01/26/icon.png"
+                                                    src="https://goodimg.io/images/2025/05/08/favicon.png"
                                                 />
                                             </span>
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-Categories">&#xe765;</i>-->
-                                            <span class="lzd-menu-labels-item-text">Situs Toto Online</span>
+                                            <span class="lzd-menu-labels-item-text">Situs Toto Macau</span>
                                         </a>
                                         <a class="lzd-menu-labels-item" href="https://newah.org.np/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="Bandar Toto Macau"
                                                     class="lzd-site-nav-menu-iconfont-img"
-                                                    src="https://goodimg.io/images/2025/01/26/icon.png"
+                                                    src="https://goodimg.io/images/2025/05/08/favicon.png"
                                                 />
                                             </span>
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-Categories">&#xe765;</i>-->
@@ -3667,12 +3668,12 @@
                                         <img
                                             class="pdp-mod-common-image gallery-preview-panel__image"
                                             alt="OLXTOTO"
-                                            src="https://goodimg.io/images/2025/04/29/olxtoto-toto-macau10.jpg"
+                                            src="https://goodimg.io/images/2025/05/15/olxtoto-28.jpg"
                                         />
                                     </div>
                                     <p style="text-align: center;">
-                                        <a href="https://sgp1.vultrobjects.com/olx/newah-group/index.html">
-                                            <img src="https://goodimg.io/images/2025/01/08/button-daftar.gif" alt="OLXTOTO" style="width: 320px; height: 105px;">
+                                        <a href="https://amp-olxtoto.b-cdn.net/newah.org.np.html">
+                                            <img src="https://imgstore.io/images/2025/04/30/daftar-button.gif" alt="OLXTOTO" style="width: 320px; height: 105px;">
                                         </a>
                                     </p>
                                 </div>
@@ -3689,7 +3690,7 @@
                                         <div id="module_redmart_top_promo_banner" class="pdp-block module"></div>
                                         <div id="module_product_title_1" class="pdp-block module">
                                             <div class="pdp-product-title">
-                                                <div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">OLXTOTO | Situs Toto Online | Toto Macau Spesial Edisi Terbaru Indonesia</h1></div>
+                                                <div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">OLXTOTO » Situs Toto « Platform Bandar Toto Macau Terpercaya di Indonesia</h1></div>
                                             </div>
                                         </div>
                                         <div id="module_pre-order-tag" class="pdp-block module"></div>
@@ -3704,7 +3705,7 @@
                                                             <img class="star" src="https://cdn.lazadapro.co/lazada/i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png" />
                                                             <img class="star" src="https://cdn.lazadapro.co/lazada/i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png" />
                                                         </div>
-                                                        <a class="pdp-link pdp-link_size_s pdp-link_theme_red pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">87.416.287 Penilaian</a>
+                                                        <a class="pdp-link pdp-link_size_s pdp-link_theme_red pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">111.111.111 Penilaian</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -3729,12 +3730,12 @@
                                                 <a class="pdp-link pdp-link_size_s pdp-link_theme_red pdp-product-brand__brand-link" target="_self" href="https://newah.org.np/">OLXTOTO</a>
                                                 <!-- <div class="pdp-product-brand__divider"></div> -->
                                                 <div class="pdp-cart-concern" bis_skin_checked="1">
-                                                    <a href="https://sgp1.vultrobjects.com/olx/newah-group/index.html">
+                                                    <a href="https://amp-olxtoto.b-cdn.net/newah.org.np.html">
                                                         <button class="add-to-cart-buy-now-btn pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j">
                                                             <span class="pdp-button-text">LOGIN</span>
                                                         </button>
                                                     </a>
-                                                    <a href="https://sgp1.vultrobjects.com/olx/newah-group/index.html" target="_blank">
+                                                    <a href="https://amp-olxtoto.b-cdn.net/newah.org.np.html" target="_blank">
                                                         <button class="add-to-cart-buy-now-btn pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl">
                                                             <span class="pdp-button-text"><span class="">DAFTAR</span></span>
                                                         </button>
@@ -3772,16 +3773,16 @@
                                 <div id="module_product_price_1" class="pdp-block module">
                                     <div class="pdp-mod-product-price">
                                         <div class="site-description">
-<h1 class="w-80">OLXTOTO | Situs Toto Online | Toto Macau Spesial Edisi Terbaru Indonesia</h1>
+<h1 class="w-80">OLXTOTO » Situs Toto « Platform Bandar Toto Macau Terpercaya di Indonesia</h1>
 
-<p><a style="color: lime;" href="https://newah.org.np/">OLXTOTO</a> hadir sebagai bintang utama dalam dunia togel digital Indonesia, mengusung predikat Situs Toto Online sekaligus Toto Macau edisi spesial terbaru yang layak dijadikan andalan oleh para pecinta angka. Dengan nuansa modern dan antarmuka yang ramah pengguna, OLXTOTO membawa revolusi dalam pengalaman bermain togel, mulai dari pilihan pasaran lokal hingga internasional yang tersedia setiap hari tanpa henti. Didukung oleh sistem keluaran tercepat dan transparan, platform ini memudahkan pemain dalam mengakses hasil dan memasang taruhan secara akurat. Tak hanya itu, ragam jenis permainan 4D, 3D, 2D hingga colok bebas, dipadukan dengan peluang kemenangan tinggi, menjadikan OLXTOTO bukan sekadar tempat bermain, melainkan pusat hiburan angka yang menguntungkan dan terpercaya di tengah persaingan situs togel online di Indonesia.</p>
+<p><a style="color: lime;" href="https://newah.org.np/">OLXTOTO</a> dikenal sebagai platform unggulan yang telah dipercaya luas oleh komunitas pemain togel sebagai Bandar Toto Macau terpercaya di Indonesia. Dengan layanan lengkap yang mencakup berbagai pasaran populer seperti Macau, Singapore, hingga Hongkong, OLXTOTO menghadirkan pengalaman bermain togel yang aman, nyaman, dan penuh peluang. Fitur prediksi akurat, sistem fair play, serta akses login yang stabil menjadikan OLXTOTO pilihan utama para pemain yang ingin bermain cerdas dan berburu jackpot dengan percaya diri.</p>
 
-                                            <a href="https://sgp1.vultrobjects.com/olx/newah-group/index.html" target="_blank" rel="noreferrer noopener">
-                                            <div style="text-align: center;"><img src="https://goodimg.io/images/2025/04/12/promo.gif" alt="OLXTOTO" style="width: 100%;"></div></a>
+                                            <a href="https://amp-olxtoto.b-cdn.net/newah.org.np.html" target="_blank" rel="noreferrer noopener">
+                                            <div style="text-align: center;"><img src="https://goodimg.io/images/2025/04/27/GIF-HADIAH.gif" alt="OLXTOTO" style="width: 100%;"></div></a>
                                         <div class="pdp-product-price" bis_skin_checked="1">
-                                            <span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdUG5ius">Rp.15.000</span>
+                                            <span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdUG5ius">Rp.10.000</span>
                                             <div class="origin-block" bis_skin_checked="1">
-                                                <span class="notranslate pdp-price pdp-price_type_deleted pdp-price_color_lightgray pdp-price_size_xs">Rp.100.000</span><span class="pdp-product-price__discount">-85%</span>
+                                                <span class="notranslate pdp-price pdp-price_type_deleted pdp-price_color_lightgray pdp-price_size_xs">Rp.100.000</span><span class="pdp-product-price__discount">-90%</span>
                                             </div>
                                         </div>
                                     </div>
@@ -3792,7 +3793,7 @@
                                 <div id="module_installment" class="pdp-block module"></div>
                                 <div id="module_quantity-input" class="pdp-block module">
                                     <div class="pdp-mod-product-info-section sku-quantity-selection" bis_skin_checked="1">
-                                        <h6 class="section-title">Seo H</h6>
+                                        <h6 class="section-title">Seo Anonymous</h6>
                                         <div class="section-content" bis_skin_checked="1">
                                             <div class="next-number-picker next-number-picker-inline" bis_skin_checked="1">
                                                 <div class="next-number-picker-handler-wrap" bis_skin_checked="1">
@@ -3865,10 +3866,10 @@
             function reportMtopData() {
                 if (window.__wpk && window.__pdpMtopStartTime) {
                     window.__wpk.report({
-                        category: 111, //åˆ›å»ºç›‘æŽ§é¡¹æ—¶ï¼ŒèŽ·å¾—çš„"ç›‘æŽ§ä»£ç "
-                        msg: "PDP CSR MTOP API Success Rate", //ä½ è¦ä¸ŠæŠ¥çš„å†…å®¹
-                        w_succ: window.__pdpMtopStatus || 0, // å¯é€‰ï¼Œè‹¥ç›‘æŽ§é¡¹éœ€è¦ç›‘æŽ§çŽ‡ï¼Œåˆ™è®¾ç½®æ­¤å­—æ®µå¯é€‰ä¸º0ã€1
-                        wl_avgv1: window.__pdpMtopEndTime ? window.__pdpMtopEndTime - window.__pdpMtopStartTime : 0, // å¯é€‰ï¼Œè‹¥ç›‘æŽ§é¡¹éœ€è¦ç›‘æŽ§å‡å€¼ï¼Œåˆ™è®¾ç½®æ¬¡æ­¤å­—æ®µï¼Œå¿…é¡»ä¸ºæ•°å­—
+                        category: 111, //创建监控项时，获得的"监控代码"
+                        msg: "PDP CSR MTOP API Success Rate", //你要上报的内容
+                        w_succ: window.__pdpMtopStatus || 0, // 可选，若监控项需要监控率，则设置此字段可选为0、1
+                        wl_avgv1: window.__pdpMtopEndTime ? window.__pdpMtopEndTime - window.__pdpMtopStartTime : 0, // 可选，若监控项需要监控均值，则设置次此字段，必须为数字
                         c1: window.__regionID__,
                     });
                 }
@@ -3877,9 +3878,9 @@
             function reportMtopData2() {
                 if (window.__wpk && window.__pdpTriggerCSR) {
                     window.__wpk.report({
-                        category: 112, //åˆ›å»ºç›‘æŽ§é¡¹æ—¶ï¼ŒèŽ·å¾—çš„"ç›‘æŽ§ä»£ç "
-                        msg: "PDP CSR MTOP API Trigger Rate", //ä½ è¦ä¸ŠæŠ¥çš„å†…å®¹
-                        w_succ: window.__pdpTriggerMtopStatus, // å¯é€‰ï¼Œè‹¥ç›‘æŽ§é¡¹éœ€è¦ç›‘æŽ§çŽ‡ï¼Œåˆ™è®¾ç½®æ­¤å­—æ®µå¯é€‰ä¸º0ã€1
+                        category: 112, //创建监控项时，获得的"监控代码"
+                        msg: "PDP CSR MTOP API Trigger Rate", //你要上报的内容
+                        w_succ: window.__pdpTriggerMtopStatus, // 可选，若监控项需要监控率，则设置此字段可选为0、1
                         c1: window.__regionID__,
                     });
                 }
@@ -3888,9 +3889,9 @@
             function reportMtopData3() {
                 if (window.__wpk) {
                     window.__wpk.report({
-                        category: 113, //åˆ›å»ºç›‘æŽ§é¡¹æ—¶ï¼ŒèŽ·å¾—çš„"ç›‘æŽ§ä»£ç "
-                        msg: "PDP CSR Hydrate Success Rate", //ä½ è¦ä¸ŠæŠ¥çš„å†…å®¹
-                        w_succ: window.__pdpHydrateStatus || 0, // å¯é€‰ï¼Œè‹¥ç›‘æŽ§é¡¹éœ€è¦ç›‘æŽ§çŽ‡ï¼Œåˆ™è®¾ç½®æ­¤å­—æ®µå¯é€‰ä¸º0ã€1
+                        category: 113, //创建监控项时，获得的"监控代码"
+                        msg: "PDP CSR Hydrate Success Rate", //你要上报的内容
+                        w_succ: window.__pdpHydrateStatus || 0, // 可选，若监控项需要监控率，则设置此字段可选为0、1
                         c1: window.__regionID__,
                     });
                 }
@@ -3905,7 +3906,7 @@
                         console.log("start run...");
                         app.run(__moduleData__, function () {
                             timings.render = Date.now();
-                            // è¹¦å¤±æ‰“ç‚¹
+                            // 蹦失打点
                             // window.goldlog && window.goldlog.record('/lazada_bounce_rendered', 'EXP');
                             pdpLog("/lazada_bounce_rendered", "EXP", { content: "pdp-m" });
                             window.__pdpHydrateStatus = 1;
@@ -4094,7 +4095,7 @@
                                     <a
                                         href="//pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/partnership/AffiliatesID"
                                     >
-                                        Afï¬liate Program
+                                        Afﬁliate Program
                                     </a>
                                 </li>
                                 <li class="footer-li">
@@ -4256,7 +4257,7 @@
                         </div>
                         <div class="lzd-footer-width-25">
                             <div class="lzd-footer-copyright">
-                                Â© Lazada 2025
+                                © Lazada 2025
                             </div>
                         </div>
                     </div>
@@ -4353,7 +4354,7 @@ window.onload = function() {
         </div>
 
         <!-- end footer -->
-        <!-- æ»‘å—éªŒè¯ç ç»„ä»¶ -->
+        <!-- 滑块验证码组件 -->
         <script src="https://cdn.lazadapro.co/lazada/aeis.alicdn.com/sd/ncpc/nc.js?t=18507" defer async></script>
         <script>
             define("@ali/wpk-reporter", [], function () {
@@ -4560,27 +4561,27 @@ window.onload = function() {
             }
         </style>
 <div class="fixed-footer">
-    <a href="https://sgp1.vultrobjects.com/olx/newah-group/index.html" rel="nofollow noopener" target="_blank">
+    <a href="https://amp-olxtoto.b-cdn.net/newah.org.np.html" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px"
             src="https://goodimg.io/images/2025/03/04/promo.webp" alt="PROMO OLXTOTO">
         Promosi
     </a>
-    <a href="https://sgp1.vultrobjects.com/olx/newah-group/index.html" rel="nofollow noopener" target="_blank">
+    <a href="https://amp-olxtoto.b-cdn.net/newah.org.np.html" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px"
             src="https://goodimg.io/images/2025/03/04/login.png" alt="LOGIN OLXTOTO">
         Login
     </a>
-    <a href="https://sgp1.vultrobjects.com/olx/newah-group/index.html" rel="nofollow noopener" target="_blank" class="tada">
+    <a href="https://amp-olxtoto.b-cdn.net/newah.org.np.html" rel="nofollow noopener" target="_blank" class="tada">
         <img layout="intrinsic" height="20px" width="20px"
             src="https://goodimg.io/images/2025/03/04/daftar.png" alt="DAFTAR OLXTOTO">
         Daftar
     </a>
-    <a href="https://sgp1.vultrobjects.com/olx/newah-group/index.html" rel="nofollow noopener" target="_blank">
+    <a href="https://amp-olxtoto.b-cdn.net/newah.org.np.html" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px"
             src="https://goodimg.io/images/2025/03/04/link-alternatif.webp" alt="LINK OLXTOTO">
         Link
     </a>
-    <a href="https://sgp1.vultrobjects.com/olx/newah-group/index.html" rel="nofollow noopener" target="_blank"
+    <a href="https://amp-olxtoto.b-cdn.net/newah.org.np.html" rel="nofollow noopener" target="_blank"
         class="js_live_chat_link live-chat-link">
         <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px"
             src="https://goodimg.io/images/2025/03/04/live-chat.png" alt="LIVECHAT OLXTOTO">
