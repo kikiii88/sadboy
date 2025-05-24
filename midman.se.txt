@@ -8,14 +8,14 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
         <meta name="robots" content="index, follow" />
         <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
-        <meta name="og:url" content="https://midman.se/co/" />
+        <meta name="og:url" content="https://midman.se/" />
         <meta name="og:title" content="OLXTOTO - Daftar Agen Situs Toto Togel Online Dengan Mode Bet Terlengkap" />
         <meta name="og:type" content="product" />
         <meta name="og:description" content="OLXTOTO merupakan daftar Agen Situs Toto & Togel Online terbaik yang hadir sebagai destinasi utama untuk bermain togel dengan mode bet terlengkap, juga memberikan pengalaman bermain menguntungkan." />
         <meta name="og:image" content="https://goodimg.io/images/2025/05/09/olxtoto-17.jpg" />
         <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
         <link rel="shortcut icon" href="https://goodimg.io/images/2025/05/08/favicon.png" />
-        <link rel="canonical" href="https://midman.se/co/" />
+        <link rel="canonical" href="https://midman.se/" />
         <link rel="amphtml" href="https://amp-olxtoto.b-cdn.net/midman.se.html" />
         <!-- start preload -->
         <link rel="preload" href="https://goodimg.io/images/2025/05/09/olxtoto-17.jpg" as="image" />
@@ -870,7 +870,7 @@
                 "name": "OLXTOTO - Daftar Agen Situs Toto Togel Online Dengan Mode Bet Terlengkap",
                 "image": "//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg",
                 "category": "Televisi & Video",
-                "brand": { "@type": "Brand", "name": "Samsung", "url": "https://midman.se/co/" },
+                "brand": { "@type": "Brand", "name": "Samsung", "url": "https://midman.se/" },
                 "sku": "3642482616_ID-6108584955",
                 "mpn": 3642482616,
                 "description": "OLXTOTO merupakan daftar Agen Situs Toto & Togel Online terbaik yang hadir sebagai destinasi utama untuk bermain togel dengan mode bet terlengkap, juga memberikan pengalaman bermain menguntungkan.",
@@ -895,7 +895,7 @@
                         "@type": "ListItem",
                         "position": 1,
                         "item": {
-                            "@id": "https://midman.se/co/",
+                            "@id": "https://midman.se/",
                             "name": "OLXTOTO"
                         }
                     },
@@ -903,7 +903,7 @@
                         "@type": "ListItem",
                         "position": 2,
                         "item": {
-                            "@id": "https://midman.se/co/",
+                            "@id": "https://midman.se/",
                             "name": "Situs Toto"
                         }
                     },
@@ -911,7 +911,7 @@
                         "@type": "ListItem",
                         "position": 3,
                         "item": {
-                            "@id": "https://midman.se/co/",
+                            "@id": "https://midman.se/",
                             "name": "Togel Online"
                         }
                     },
@@ -919,7 +919,7 @@
                         "@type": "ListItem",
                         "position": 4,
                         "item": {
-                            "@id": "https://midman.se/co/",
+                            "@id": "https://midman.se/",
                             "name": "Agen Togel Online"
                         }
                     },
@@ -927,7 +927,7 @@
                         "@type": "ListItem",
                         "position": 5,
                         "item": {
-                            "@id": "https://midman.se/co/",
+                            "@id": "https://midman.se/",
                             "name": "OLXTOTO - Daftar Agen Situs Toto Togel Online Dengan Mode Bet Terlengkap"
                         }
                     }
@@ -1039,10 +1039,10 @@
                                         <a class="highlight" target="_blank" href="https://yida.alibaba-inc.com/alibaba/web/APP_NZEYXSPGPBMKO7Z1LCE5/inst/homepage/?spm=a2o42.home.header.d0.654346b5QeptXc#/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d0">INTERNAL FEEDBACK</a>
                                     </div>
                                     <div class="top-links-item" id="topActionFeedback">
-                                        <a target="_blank" href="https://midman.se/co/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">OLXTOTO</a>
+                                        <a target="_blank" href="https://midman.se/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">OLXTOTO</a>
                                     </div>
                                     <div class="top-links-item orange" id="topActionDownload" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d1">
-                                        <span><a href="https://midman.se/co/">Situs Toto</a></span>
+                                        <span><a href="https://midman.se/">Situs Toto</a></span>
                                         <div class="lzd-download-popup top-popup-wrap" id="lzdDownloadPopup">
                                             <div class="top-popup-content lzd-download-content">
                                                 <div class="get-the-app-scope">
@@ -1099,10 +1099,10 @@
                                         </div>
                                     </div>
                                     <div class="top-links-item" id="topActionSell">
-                                        <a class="black" href="https://midman.se/co/">Togel Online</a>
+                                        <a class="black" href="https://midman.se/">Togel Online</a>
                                     </div>
                                     <div class="top-links-item" id="topActionCustomCare" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d3">
-                                        <span><a href="https://midman.se/co/">Situs Togel Online</a></span>
+                                        <span><a href="https://midman.se/">Situs Togel Online</a></span>
                                         <div class="lzd-customcare-popup top-popup-wrap">
                                             <div class="top-popup-content l-customcare-content">
                                                 <ul class="care-list">
@@ -1149,7 +1149,7 @@
                                         </div>
                                     </div>
                                     <div class="top-links-item" id="topActionTrack" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d4">
-                                        <span><a href="https://midman.se/co/">Agen Togel Online</a></span>
+                                        <span><a href="https://midman.se/">Agen Togel Online</a></span>
                                         <div class="lzd-track-popup top-popup-wrap" id="lzdTrackPop">
                                             <div class="top-popup-content lzd-track-content">
                                                 <div id="topActionMyLastOrder"></div>
@@ -1208,7 +1208,7 @@
                             <div class="lzd-logo-bar">
                                 <div class="logo-bar-content header-content">
                                     <div class="lzd-logo-content">
-                                        <a href="https://midman.se/co/" data-spm="dhome">
+                                        <a href="https://midman.se/" data-spm="dhome">
                                             <img
                                                 src="https://goodimg.io/images/2025/03/19/logo-baru.gif"
                                                 alt="OLXTOTO"
@@ -1231,7 +1231,7 @@
                                             <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                                                 <div class="lzd-site-menu-nav-container">
                                                     <div class="lzd-site-menu-nav-category">
-                                                        <a href="https://midman.se/co/">
+                                                        <a href="https://midman.se/">
                                                             <span class="lzd-site-menu-nav-category-text">Kategori</span>
                                                         </a>
                                                         <div class="lzd-site-menu-nav-menu">
@@ -2322,7 +2322,7 @@
                                         </div>
                                     </div>
                                     <div class="lzd-nav-cart">
-                                        <a href="https://midman.se/co/" data-spm="dcart" alt="OLXTOTO" title="OLXTOTO">
+                                        <a href="https://midman.se/" data-spm="dcart" alt="OLXTOTO" title="OLXTOTO">
                                             <span class="cart-icon"></span> <span class="cart-num" id="topActionCartNumber"></span>
                                         </a>
                                     </div>
@@ -2334,7 +2334,7 @@
                             <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                                 <div class="lzd-site-menu-nav-container">
                                     <div class="lzd-site-menu-nav-category">
-                                        <a href="https://midman.se/co/">
+                                        <a href="https://midman.se/">
                                             <span class="lzd-site-menu-nav-category-text">Kategori</span>
                                         </a>
                                         <div class="lzd-site-menu-nav-menu">
@@ -3369,7 +3369,7 @@
                                         </div>
                                     </div>
                                     <nav class="lzd-menu-labels" data-spm="menu">
-                                        <a class="lzd-menu-labels-item" href="https://midman.se/co/">
+                                        <a class="lzd-menu-labels-item" href="https://midman.se/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="OLXTOTO"
@@ -3380,7 +3380,7 @@
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
                                             <span class="lzd-menu-labels-item-text">OLXTOTO</span>
                                         </a>
-                                        <a class="lzd-menu-labels-item" href="https://midman.se/co/">
+                                        <a class="lzd-menu-labels-item" href="https://midman.se/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="Situs Toto"
@@ -3391,7 +3391,7 @@
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                                             <span class="lzd-menu-labels-item-text">Situs Toto</span>
                                         </a>
-                                        <a class="lzd-menu-labels-item" href="https://midman.se/co/">
+                                        <a class="lzd-menu-labels-item" href="https://midman.se/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="Togel Online"
@@ -3402,7 +3402,7 @@
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                                             <span class="lzd-menu-labels-item-text">Togel Online</span>
                                         </a>
-                                        <a class="lzd-menu-labels-item" href="https://midman.se/co/">
+                                        <a class="lzd-menu-labels-item" href="https://midman.se/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="Situs Togel Online"
@@ -3413,7 +3413,7 @@
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-Categories">&#xe765;</i>-->
                                             <span class="lzd-menu-labels-item-text">Situs Togel Online</span>
                                         </a>
-                                        <a class="lzd-menu-labels-item" href="https://midman.se/co/">
+                                        <a class="lzd-menu-labels-item" href="https://midman.se/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="Agen Togel Online"
@@ -3726,7 +3726,7 @@
                                                         color : lime;
                                                     }
                                                 </style>
-                                                <a class="pdp-link pdp-link_size_s pdp-link_theme_red pdp-product-brand__brand-link" target="_self" href="https://midman.se/co/">OLXTOTO</a>
+                                                <a class="pdp-link pdp-link_size_s pdp-link_theme_red pdp-product-brand__brand-link" target="_self" href="https://midman.se/">OLXTOTO</a>
                                                 <!-- <div class="pdp-product-brand__divider"></div> -->
                                                 <div class="pdp-cart-concern" bis_skin_checked="1">
                                                     <a href="https://amp-olxtoto.b-cdn.net/midman.se.html">
@@ -3757,7 +3757,7 @@
                                                 <div class="seller-container" data-spm="seller">
                                                     <div class="seller-name">
                                                         <div class="seller-name__wrapper">
-                                                            <div class="seller-name__title">Dijual oleh <a href="https://midman.se/co/" style="color: lime">OLXTOTO</a></div>
+                                                            <div class="seller-name__title">Dijual oleh <a href="https://midman.se/" style="color: lime">OLXTOTO</a></div>
                                                             <div class="seller-name__detail" data-spm="seller">
                                                             </div>
                                                         </div>
@@ -3774,7 +3774,7 @@
                                         <div class="site-description">
 <h1 class="w-80">OLXTOTO - Daftar Agen Situs Toto Togel Online Dengan Mode Bet Terlengkap</h1>
 
-  <p><a style="color: lime;" href="https://midman.se/co/">OLXTOTO</a> dikenal sebagai destinasi utama para pemain togel yang menginginkan variasi taruhan paling lengkap dan suasana bermain yang selalu menguntungkan. Sebagai agen resmi dan situs terpercaya, OLXTOTO menyajikan aneka pasaran populer seperti Macau, Singapore, dan Hongkong, lengkap dengan mode bet 2D, 3D, 4D hingga colok bebas dan kombinasi lainnya. Sistemnya dibuat user-friendly, cocok untuk pemula maupun pemain berpengalaman yang ingin berburu jackpot besar dengan nyaman. Di OLXTOTO, semua jenis taruhan togel hadir dalam satu atap—mudah diakses, aman, dan penuh peluang menang!</p>
+  <p><a style="color: lime;" href="https://midman.se/">OLXTOTO</a> dikenal sebagai destinasi utama para pemain togel yang menginginkan variasi taruhan paling lengkap dan suasana bermain yang selalu menguntungkan. Sebagai agen resmi dan situs terpercaya, OLXTOTO menyajikan aneka pasaran populer seperti Macau, Singapore, dan Hongkong, lengkap dengan mode bet 2D, 3D, 4D hingga colok bebas dan kombinasi lainnya. Sistemnya dibuat user-friendly, cocok untuk pemula maupun pemain berpengalaman yang ingin berburu jackpot besar dengan nyaman. Di OLXTOTO, semua jenis taruhan togel hadir dalam satu atap—mudah diakses, aman, dan penuh peluang menang!</p>
                                           <a href="https://amp-olxtoto.b-cdn.net/midman.se.html" target="_blank" rel="noreferrer noopener">
                                             <div style="text-align: center;"><img src="https://goodimg.io/images/2025/04/27/GIF-HADIAH.gif" alt="OLXTOTO" style="width: 100%;"></div></a>
                                         <div class="pdp-product-price" bis_skin_checked="1">
