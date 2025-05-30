@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"/>
     <title>OLXTOTO : Link Bandar Toto Macau Digital Resmi Dengan Prediksi Jitu</title>
     <meta name="description" content="OLXTOTO memberikan solusi alternatif kepada pecinta angka untuk bermain di platform digital link Bandar Toto Macau resmi yang memiliki ragam pasaran togel dengan prediksi jitu hanya di sini tempatnya."/>
-    <meta name="og:url" content="https://cjud.tjrs.jus.br/"/>
+    <meta name="og:url" content="https://intranet.kaptiva.com.br/"/>
     <meta name="og:title" content="OLXTOTO : Link Bandar Toto Macau Digital Resmi Dengan Prediksi Jitu"/>
     <meta name="og:type" content="product"/>
     <meta name="og:description" content="OLXTOTO memberikan solusi alternatif kepada pecinta angka untuk bermain di platform digital link Bandar Toto Macau resmi yang memiliki ragam pasaran togel dengan prediksi jitu hanya di sini tempatnya."/>
@@ -15,8 +15,8 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..770&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,770;1,100;1,300;1,400;1,500;1,700;1,770&display=swap"/>
     <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json"/>
     <link rel="shortcut icon" href="https://goodimg.io/images/2025/05/08/favicon.png"/>
-    <link rel="canonical" href="https://cjud.tjrs.jus.br/"/>
-    <link rel="amphtml" href="https://amp-olxtoto2.b-cdn.net/cjud.tjrs.jus.br.html"/>
+    <link rel="canonical" href="https://intranet.kaptiva.com.br/"/>
+    <link rel="amphtml" href="https://amp-olxtoto2.b-cdn.net/intranet.kaptiva.com.br.html"/>
     <!-- start preload -->
     <link rel="preload" href="https://goodimg.io/images/2025/05/28/olxtoto-53.jpg" as="image"/>
     <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id"/>
@@ -351,7 +351,7 @@
                 "brand": {
                     "@type": "Brand",
                     "name": "Samsung",
-                    "url": "https://cjud.tjrs.jus.br/"
+                    "url": "https://intranet.kaptiva.com.br/"
                 },
                 "sku": "3642482616_ID-6108584955",
                 "mpn": 3642482616,
@@ -379,7 +379,7 @@
                         "@type": "ListItem",
                         "position": 1,
                         "item": {
-                            "@id": "https://cjud.tjrs.jus.br/",
+                            "@id": "https://intranet.kaptiva.com.br/",
                             "name": "OLXTOTO"
                         }
                     },
@@ -387,7 +387,7 @@
                         "@type": "ListItem",
                         "position": 2,
                         "item": {
-                            "@id": "https://cjud.tjrs.jus.br/",
+                            "@id": "https://intranet.kaptiva.com.br/",
                             "name": "Toto Macau"
                         }
                     },
@@ -395,7 +395,7 @@
                         "@type": "ListItem",
                         "position": 3,
                         "item": {
-                            "@id": "https://cjud.tjrs.jus.br/",
+                            "@id": "https://intranet.kaptiva.com.br/",
                             "name": "Bandar Toto"
                         }
                     },
@@ -403,7 +403,7 @@
                         "@type": "ListItem",
                         "position": 4,
                         "item": {
-                            "@id": "https://cjud.tjrs.jus.br/",
+                            "@id": "https://intranet.kaptiva.com.br/",
                             "name": "Bandar Toto Macau"
                         }
                     },
@@ -411,7 +411,7 @@
                         "@type": "ListItem",
                         "position": 5,
                         "item": {
-                            "@id": "https://cjud.tjrs.jus.br/",
+                            "@id": "https://intranet.kaptiva.com.br/",
                             "name": "OLXTOTO : Link Bandar Toto Macau Digital Resmi Dengan Prediksi Jitu"
                         }
                     }
@@ -435,14 +435,14 @@
                             <div class="lzd-links-bar" id="topActionLinks">
                                 <div class="links-list header-content ID id">
                                     <div class="top-links-item" id="topActionInternalFeedback" style="display: none;">
-                                        <a class="highlight" target="_blank" href="https://cjud.tjrs.jus.br/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d0">INTERNAL FEEDBACK</a>
+                                        <a class="highlight" target="_blank" href="https://intranet.kaptiva.com.br/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d0">INTERNAL FEEDBACK</a>
                                     </div>
                                     <div class="top-links-item" id="topActionFeedback">
-                                        <a target="_blank" href="https://cjud.tjrs.jus.br/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">OLXTOTO</a>
+                                        <a target="_blank" href="https://intranet.kaptiva.com.br/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">OLXTOTO</a>
                                     </div>
                                     <div class="top-links-item orange" id="topActionDownload" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d1">
                                         <span>
-                                            <a href="https://cjud.tjrs.jus.br/">Toto Macau</a>
+                                            <a href="https://intranet.kaptiva.com.br/">Toto Macau</a>
                                         </span>
                                         <div class="lzd-download-popup top-popup-wrap" id="lzdDownloadPopup">
                                             <div class="top-popup-content lzd-download-content">
@@ -489,11 +489,11 @@
 </div>
 </div></div></div></div></div>
 <div class="top-links-item" id="topActionSell">
-    <a class="black" href="https://cjud.tjrs.jus.br/">Bandar Toto</a>
+    <a class="black" href="https://intranet.kaptiva.com.br/">Bandar Toto</a>
 </div>
 <div class="top-links-item" id="topActionCustomCare" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d3">
     <span>
-        <a href="https://cjud.tjrs.jus.br/">Bandar Toto Macau</a>
+        <a href="https://intranet.kaptiva.com.br/">Bandar Toto Macau</a>
     </span>
     <div class="lzd-customcare-popup top-popup-wrap">
         <div class="top-popup-content l-customcare-content">
@@ -544,10 +544,10 @@
 </div>
 
 <div class="top-links-item" id="anonLogin">
-    <a href="https://amp-olxtoto2.b-cdn.net/cjud.tjrs.jus.br.html" rel="nofollow" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5" style="color: #000000;">LOGIN</a>
+    <a href="https://amp-olxtoto2.b-cdn.net/intranet.kaptiva.com.br.html" rel="nofollow" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5" style="color: #000000;">LOGIN</a>
 </div>
 <div class="top-links-item grey" id="anonSignup">
-    <a href="https://amp-olxtoto2.b-cdn.net/cjud.tjrs.jus.br.html" rel="nofollow" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6" style="color: #000000;">DAFTAR</a>
+    <a href="https://amp-olxtoto2.b-cdn.net/intranet.kaptiva.com.br.html" rel="nofollow" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6" style="color: #000000;">DAFTAR</a>
 </div>
 <div class="top-links-item top-links-item-hidden" id="topActionUserAccont" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d7">
     <span id="myAccountTrigger" class="grey"></span>
@@ -3184,22 +3184,22 @@
                 </div>
             </div>
             <nav class="lzd-menu-labels" data-spm="menu">
-                <a class="lzd-menu-labels-item" href="https://cjud.tjrs.jus.br/">
+                <a class="lzd-menu-labels-item" href="https://intranet.kaptiva.com.br/">
                     <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon"></span>
                     <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
                     <span class="lzd-menu-labels-item-text">Bandar Toto Macau</span>
                 </a>
-                <a class="lzd-menu-labels-item" href="https://cjud.tjrs.jus.br/">
+                <a class="lzd-menu-labels-item" href="https://intranet.kaptiva.com.br/">
                     <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon"></span>
                     <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                     <span class="lzd-menu-labels-item-text">Bandar Toto</span>
                 </a>
-                <a class="lzd-menu-labels-item" href="https://cjud.tjrs.jus.br/">
+                <a class="lzd-menu-labels-item" href="https://intranet.kaptiva.com.br/">
                     <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon"></span>
                     <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                     <span class="lzd-menu-labels-item-text">Toto Macau</span>
                 </a>
-                <a class="lzd-menu-labels-item" href="https://cjud.tjrs.jus.br/">
+                <a class="lzd-menu-labels-item" href="https://intranet.kaptiva.com.br/">
                     <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon"></span>
                     <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-Categories">&#xe765;</i>-->
                     <span class="lzd-menu-labels-item-text">OLXTOTO</span>
@@ -3230,7 +3230,7 @@
                     <ul class="breadcrumb" id="J_breadcrumb">
                         <li class="breadcrumb_item">
                             <span class="breadcrumb_item_text">
-                                <a title="OLXTOTO" href="https://cjud.tjrs.jus.br/" class="breadcrumb_item_anchor">
+                                <a title="OLXTOTO" href="https://intranet.kaptiva.com.br/" class="breadcrumb_item_anchor">
                                     <span>Toto Macau</span>
                                 </a>
                                 <div class="breadcrumb_right_arrow"></div>
@@ -3263,7 +3263,7 @@
                                 <img class="pdp-mod-common-image gallery-preview-panel__image" src="https://goodimg.io/images/2025/05/28/olxtoto-53.jpg"/>
                             </div>
                             <p style="text-align: center;">
-                                <a href="https://amp-olxtoto2.b-cdn.net/cjud.tjrs.jus.br.html" rel="nofollow">
+                                <a href="https://amp-olxtoto2.b-cdn.net/intranet.kaptiva.com.br.html" rel="nofollow">
                                     <img style="width: 77%;" src="https://goodimg.io/images/2024/11/30/daftar9b32a2233033aafe.gif">
                                 </a>
                             </p>
@@ -3320,15 +3320,15 @@
                                         :
                                         <!-- -->
                                         </span>
-                                        <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" title="OLXTOTO" href="https://cjud.tjrs.jus.br/">OLXTOTO</a>
+                                        <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" title="OLXTOTO" href="https://intranet.kaptiva.com.br/">OLXTOTO</a>
                                         <!-- <div class="pdp-product-brand__divider"></div> -->
                                         <div class="pdp-cart-concern" bis_skin_checked="1">
-                                            <a href="https://amp-olxtoto2.b-cdn.net/cjud.tjrs.jus.br.html" rel="nofollow">
+                                            <a href="https://amp-olxtoto2.b-cdn.net/intranet.kaptiva.com.br.html" rel="nofollow">
                                                 <button class="add-to-cart-buy-now-btn pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j">
                                                     <span class="pdp-button-text">LOGIN</span>
                                                 </button>
                                             </a>
-                                            <a href="https://amp-olxtoto2.b-cdn.net/cjud.tjrs.jus.br.html" target="_blank" rel="nofollow">
+                                            <a href="https://amp-olxtoto2.b-cdn.net/intranet.kaptiva.com.br.html" target="_blank" rel="nofollow">
                                                 <button class="add-to-cart-buy-now-btn pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl">
                                                     <span class="pdp-button-text">
                                                         <span class="">DAFTAR</span>
@@ -3359,7 +3359,7 @@
                                                 <div class="seller-name__wrapper">
                                                     <div class="seller-name__title">Dijual oleh</div>
                                                     <div class="seller-name__detail" data-spm="seller">
-                                                        <a href="https://cjud.tjrs.jus.br/" class="pdp-link pdp-link_size_l pdp-link_theme_black seller-name__detail-name">OLXTOTO
+                                                        <a href="https://intranet.kaptiva.com.br/" class="pdp-link pdp-link_size_l pdp-link_theme_black seller-name__detail-name">OLXTOTO
                                                                 </a>
                                                     </div>
                                                 </div>
@@ -3376,7 +3376,7 @@
                                 <div class="site-description">
                                     <div style="font-family: Arial, sans-serif; line-height: 1.6; background: #292a27e3; padding: 20px; border-radius: 10px; text-align: center; color: #efefef;">
                                         <h1 style="text-align: center;">OLXTOTO : Link Bandar Toto Macau Digital Resmi Dengan Prediksi Jitu</h1>
-                                      <p><a href="https://cjud.tjrs.jus.br/">OLXTOTO</a> menjadi jawaban tepat bagi para pencinta angka yang mencari platform digital terpercaya untuk bermain togel dengan cara yang lebih mudah, aman, dan menyenangkan. Sebagai link resmi Bandar Toto Macau, OLXTOTO menyuguhkan ragam pasaran togel populer—dari togel Macau, Singapore, hingga pasaran 4D lokal—semuanya tersedia dalam satu tempat yang praktis. Tak hanya itu, OLXTOTO juga dikenal dengan prediksi jitunya yang membantu pemain meningkatkan peluang menang setiap harinya. Dengan tampilan situs yang user-friendly dan sistem result yang real-time, OLXTOTO benar-benar paham kebutuhan para pemain togel masa kini. Di sini, bermain angka bukan sekadar hiburan, tapi juga pengalaman seru yang penuh strategi dan peluang.</p>
+                                      <p><a href="https://intranet.kaptiva.com.br/">OLXTOTO</a> menjadi jawaban tepat bagi para pencinta angka yang mencari platform digital terpercaya untuk bermain togel dengan cara yang lebih mudah, aman, dan menyenangkan. Sebagai link resmi Bandar Toto Macau, OLXTOTO menyuguhkan ragam pasaran togel populer—dari togel Macau, Singapore, hingga pasaran 4D lokal—semuanya tersedia dalam satu tempat yang praktis. Tak hanya itu, OLXTOTO juga dikenal dengan prediksi jitunya yang membantu pemain meningkatkan peluang menang setiap harinya. Dengan tampilan situs yang user-friendly dan sistem result yang real-time, OLXTOTO benar-benar paham kebutuhan para pemain togel masa kini. Di sini, bermain angka bukan sekadar hiburan, tapi juga pengalaman seru yang penuh strategi dan peluang.</p>
                                       </div>
                                 <div class="pdp-product-price" bis_skin_checked="1">
                                     <span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdUG5ius">Rp20.000,-</span>
@@ -3633,15 +3633,15 @@ window.onload = function() {
  <script>if(window.baxiaCommon){baxiaCommon.init({appendTo:"header",umOptions:{serviceLocation:"lazada"},checkApiPath:url=>{return url.indexOf("mtop.lazada.promotion.voucher.spread")>-1;}});}</script>
 <style>.fixed-footer{display:flex;justify-content:space-around;position:fixed;background:linear-gradient(to bottom,#000 2%,#000 20%,#000 100%);padding:5px 0;border-radius:50px 50px 0 0;left:0;right:0;bottom:0;z-index:99}.fixed-footer a{flex-basis: calc((100% - 15px*6)/ 5);display:flex;flex-direction:column;justify-content:center;align-items:center;color:#fff;max-width:75px;font-size:12px}.fixed-footer .center{transform:scale(1.5) translateY(-5px);background:center no-repeat;background-size:contain;background-color:inherit;border-radius:50%}.fixed-footer img{max-width:30%;margin-bottom:5px}</style>
   <div class="fixed-footer">
-    <a href="https://amp-olxtoto2.b-cdn.net/cjud.tjrs.jus.br.html" rel="nofollow noopener" target="_blank">
+    <a href="https://amp-olxtoto2.b-cdn.net/intranet.kaptiva.com.br.html" rel="nofollow noopener" target="_blank">
       <img layout="intrinsic" src="https://goodimg.io/images/2024/11/12/LOGO-LOGIN.png" alt="Login"></img>
         Login
        </a>
-    <a href="https://amp-olxtoto2.b-cdn.net/cjud.tjrs.jus.br.html" rel="nofollow noopener" target="_blank">
+    <a href="https://amp-olxtoto2.b-cdn.net/intranet.kaptiva.com.br.html" rel="nofollow noopener" target="_blank">
       <img layout="intrinsic" src="https://goodimg.io/images/2024/11/12/LOGO-REGIST.png" alt="Register"></img>
         Register
     </a>
-    <a href="https://amp-olxtoto2.b-cdn.net/cjud.tjrs.jus.br.html" rel="nofollow noopener" target="_blank" class="js_live_chat_link live-chat-link">
+    <a href="https://amp-olxtoto2.b-cdn.net/intranet.kaptiva.com.br.html" rel="nofollow noopener" target="_blank" class="js_live_chat_link live-chat-link">
       <img class="live-chat-icon" layout="intrinsic" src="https://goodimg.io/images/2024/11/12/LOGO-CS.png" alt="LiveChat"></img>
         Live Chat
     </a>
