@@ -100,4 +100,7 @@
 <a href="https://escuelaignaciochavez.com/"rel="dofollow">escuelaignaciochavez.com</a>
 <a href="https://learn.open2study.online/"rel="dofollow">learn.open2study.online</a>
 <a href="https://pssfpfoad.net/"rel="dofollow">pssfpfoad.net</a>
+<a href="https://sms.dpfc-ci.net/"rel="dofollow">sms.dpfc-ci.net</a>
+<a href="https://simulilab.dpfc-ci.net/"rel="dofollow">simulilab.dpfc-ci.net</a>
+<a href="https://pec.dpfc-ci.net/"rel="dofollow">pec.dpfc-ci.net</a>
 </div>
