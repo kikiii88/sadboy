@@ -103,4 +103,8 @@
 <a href="https://sms.dpfc-ci.net/"rel="dofollow">sms.dpfc-ci.net</a>
 <a href="https://simulilab.dpfc-ci.net/"rel="dofollow">simulilab.dpfc-ci.net</a>
 <a href="https://pec.dpfc-ci.net/"rel="dofollow">pec.dpfc-ci.net</a>
+<a href="https://enquetes.dpfc-ci.net/"rel="dofollow">enquetes.dpfc-ci.net</a>
+<a href="https://mealm.dpfc-ci.net/"rel="dofollow">mealm.dpfc-ci.net</a>
+<a href="https://primaire.dpfc-ci.net/"rel="dofollow">primaire.dpfc-ci.net</a>
+<a href="https://rel-unesco.dpfc-ci.net/"rel="dofollow">rel-unesco.dpfc-ci.net</a>
 </div>
