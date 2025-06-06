@@ -107,4 +107,7 @@
 <a href="https://mealm.dpfc-ci.net/"rel="dofollow">mealm.dpfc-ci.net</a>
 <a href="https://primaire.dpfc-ci.net/"rel="dofollow">primaire.dpfc-ci.net</a>
 <a href="https://rel-unesco.dpfc-ci.net/"rel="dofollow">rel-unesco.dpfc-ci.net</a>
+<a href="https://digitaltools.mubs.ac.ug/"rel="dofollow">digitaltools.mubs.ac.ug</a>
+<a href="https://aulavirtual.gicaingenieros.pe/"rel="dofollow">aulavirtual.gicaingenieros.pe</a>
+<a href="https://autoescuelafernando.centros.at/"rel="dofollow">autoescuelafernando.centros.at</a>
 </div>
