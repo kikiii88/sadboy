@@ -12,13 +12,13 @@
         <meta name="og:title" content="OLXTOTO | Situs Toto | Bandar Togel Online | Toto Slot Gacor #1 Paling Viral" />
         <meta name="og:type" content="product" />
         <meta name="og:description" content="OLXTOTO diliputi oleh Situs Toto, Bandar Togel Online dan Toto Slot Gacor yang paling viral di kalangan Gen-Z serta menyediakan layanan terbaik #1 se-indonesia." />
-        <meta name="og:image" content="https://goodimg.io/images/2025/06/05/olxtoto-63.jpg" />
+        <meta name="og:image" content="https://goodimg.io/images/2025/06/05/olxtoto-62.jpg" />
         <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
         <link rel="shortcut icon" href="https://goodimg.io/images/2025/05/08/favicon.png" />
         <link rel="canonical" href="https://campusautoescolaeltancat.centros.at/" />
         <link rel="amphtml" href="https://amp-olxtoto2.b-cdn.net/campusautoescolaeltancat.centros.at.html" />
         <!-- start preload -->
-        <link rel="preload" href="https://goodimg.io/images/2025/06/05/olxtoto-63.jpg" as="image" />
+        <link rel="preload" href="https://goodimg.io/images/2025/06/05/olxtoto-62.jpg" as="image" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
         <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
@@ -124,7 +124,7 @@
             var timings = { start: Date.now() };
             var dataLayer = window.dataLayer || [];
             var pdpTrackingData =
-                '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://goodimg.io/images/2025/06/05/olxtoto-63.jpg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"OLXTOTO | Situs Toto | Bandar Togel Online | Toto Slot Gacor #1 Paling Viral","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
+                '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://goodimg.io/images/2025/06/05/olxtoto-62.jpg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"OLXTOTO | Situs Toto | Bandar Togel Online | Toto Slot Gacor #1 Paling Viral","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
             try {
                 pdpTrackingData = JSON.parse(pdpTrackingData);
                 pdpTrackingData.v_voya = false;
@@ -3667,7 +3667,7 @@
                                         <img
                                             class="pdp-mod-common-image gallery-preview-panel__image"
                                             alt="OLXTOTO"
-                                            src="https://goodimg.io/images/2025/06/05/olxtoto-63.jpg"
+                                            src="https://goodimg.io/images/2025/06/05/olxtoto-62.jpg"
                                         />
                                     </div>
                                     <p style="text-align: center;">
