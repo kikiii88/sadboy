@@ -110,4 +110,6 @@
 <a href="https://digitaltools.mubs.ac.ug/"rel="dofollow">digitaltools.mubs.ac.ug</a>
 <a href="https://aulavirtual.gicaingenieros.pe/"rel="dofollow">aulavirtual.gicaingenieros.pe</a>
 <a href="https://autoescuelafernando.centros.at/"rel="dofollow">autoescuelafernando.centros.at</a>
+<a href="https://campusamateformacion.centros.at/"rel="dofollow">campusamateformacion.centros.at</a>
+<a href="https://campusautoescolaeltancat.centros.at/"rel="dofollow">campusautoescolaeltancat.centros.at</a>
 </div>
