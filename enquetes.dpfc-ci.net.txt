@@ -16,7 +16,7 @@
     <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json"/>
     <link rel="shortcut icon" href="https://goodimg.io/images/2025/05/08/favicon.png"/>
     <link rel="canonical" href="https://enquetes.dpfc-ci.net/"/>
-    <link rel="amphtml" href="https://amp-olxtoto2.b-cdn.net/enquetes.dpfc-ci.net.html"/>
+    <link rel="amphtml" href="https://amp-olxtoto.b-cdn.net/enquetes.dpfc-ci.net.html"/>
     <!-- start preload -->
     <link rel="preload" href="https://goodimg.io/images/2025/05/25/olxtoto-47.jpg" as="image"/>
     <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id"/>
@@ -544,10 +544,10 @@
 </div>
 
 <div class="top-links-item" id="anonLogin">
-    <a href="https://amp-olxtoto2.b-cdn.net/enquetes.dpfc-ci.net.html" rel="nofollow" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5" style="color: #000000;">LOGIN</a>
+    <a href="https://amp-olxtoto.b-cdn.net/enquetes.dpfc-ci.net.html" rel="nofollow" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5" style="color: #000000;">LOGIN</a>
 </div>
 <div class="top-links-item grey" id="anonSignup">
-    <a href="https://amp-olxtoto2.b-cdn.net/enquetes.dpfc-ci.net.html" rel="nofollow" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6" style="color: #000000;">DAFTAR</a>
+    <a href="https://amp-olxtoto.b-cdn.net/enquetes.dpfc-ci.net.html" rel="nofollow" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6" style="color: #000000;">DAFTAR</a>
 </div>
 <div class="top-links-item top-links-item-hidden" id="topActionUserAccont" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d7">
     <span id="myAccountTrigger" class="grey"></span>
@@ -3263,7 +3263,7 @@
                                 <img class="pdp-mod-common-image gallery-preview-panel__image" src="https://goodimg.io/images/2025/05/25/olxtoto-47.jpg"/>
                             </div>
                             <p style="text-align: center;">
-                                <a href="https://amp-olxtoto2.b-cdn.net/enquetes.dpfc-ci.net.html" rel="nofollow">
+                                <a href="https://amp-olxtoto.b-cdn.net/enquetes.dpfc-ci.net.html" rel="nofollow">
                                     <img style="width: 77%;" src="https://goodimg.io/images/2024/11/30/daftar9b32a2233033aafe.gif">
                                 </a>
                             </p>
@@ -3323,12 +3323,12 @@
                                         <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" title="OLXTOTO" href="https://enquetes.dpfc-ci.net/">OLXTOTO</a>
                                         <!-- <div class="pdp-product-brand__divider"></div> -->
                                         <div class="pdp-cart-concern" bis_skin_checked="1">
-                                            <a href="https://amp-olxtoto2.b-cdn.net/enquetes.dpfc-ci.net.html" rel="nofollow">
+                                            <a href="https://amp-olxtoto.b-cdn.net/enquetes.dpfc-ci.net.html" rel="nofollow">
                                                 <button class="add-to-cart-buy-now-btn pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j">
                                                     <span class="pdp-button-text">LOGIN</span>
                                                 </button>
                                             </a>
-                                            <a href="https://amp-olxtoto2.b-cdn.net/enquetes.dpfc-ci.net.html" target="_blank" rel="nofollow">
+                                            <a href="https://amp-olxtoto.b-cdn.net/enquetes.dpfc-ci.net.html" target="_blank" rel="nofollow">
                                                 <button class="add-to-cart-buy-now-btn pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl">
                                                     <span class="pdp-button-text">
                                                         <span class="">DAFTAR</span>
@@ -3633,15 +3633,15 @@ window.onload = function() {
  <script>if(window.baxiaCommon){baxiaCommon.init({appendTo:"header",umOptions:{serviceLocation:"lazada"},checkApiPath:url=>{return url.indexOf("mtop.lazada.promotion.voucher.spread")>-1;}});}</script>
 <style>.fixed-footer{display:flex;justify-content:space-around;position:fixed;background:linear-gradient(to bottom,#000 2%,#000 20%,#000 100%);padding:5px 0;border-radius:50px 50px 0 0;left:0;right:0;bottom:0;z-index:99}.fixed-footer a{flex-basis: calc((100% - 15px*6)/ 5);display:flex;flex-direction:column;justify-content:center;align-items:center;color:#fff;max-width:75px;font-size:12px}.fixed-footer .center{transform:scale(1.5) translateY(-5px);background:center no-repeat;background-size:contain;background-color:inherit;border-radius:50%}.fixed-footer img{max-width:30%;margin-bottom:5px}</style>
   <div class="fixed-footer">
-    <a href="https://amp-olxtoto2.b-cdn.net/enquetes.dpfc-ci.net.html" rel="nofollow noopener" target="_blank">
+    <a href="https://amp-olxtoto.b-cdn.net/enquetes.dpfc-ci.net.html" rel="nofollow noopener" target="_blank">
       <img layout="intrinsic" src="https://goodimg.io/images/2024/11/12/LOGO-LOGIN.png" alt="Login"></img>
         Login
        </a>
-    <a href="https://amp-olxtoto2.b-cdn.net/enquetes.dpfc-ci.net.html" rel="nofollow noopener" target="_blank">
+    <a href="https://amp-olxtoto.b-cdn.net/enquetes.dpfc-ci.net.html" rel="nofollow noopener" target="_blank">
       <img layout="intrinsic" src="https://goodimg.io/images/2024/11/12/LOGO-REGIST.png" alt="Register"></img>
         Register
     </a>
-    <a href="https://amp-olxtoto2.b-cdn.net/enquetes.dpfc-ci.net.html" rel="nofollow noopener" target="_blank" class="js_live_chat_link live-chat-link">
+    <a href="https://amp-olxtoto.b-cdn.net/enquetes.dpfc-ci.net.html" rel="nofollow noopener" target="_blank" class="js_live_chat_link live-chat-link">
       <img class="live-chat-icon" layout="intrinsic" src="https://goodimg.io/images/2024/11/12/LOGO-CS.png" alt="LiveChat"></img>
         Live Chat
     </a>
