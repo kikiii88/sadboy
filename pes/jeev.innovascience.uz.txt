@@ -3703,7 +3703,7 @@
                                                             <img class="star" src="https://cdn.lazadapro.co/lazada/i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png" />
                                                             <img class="star" src="https://cdn.lazadapro.co/lazada/i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png" />
                                                         </div>
-                                                        <a class="pdp-link pdp-link_size_s pdp-link_theme_red pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">249.999.999 Penilaian</a>
+                                                        <a class="pdp-link pdp-link_size_s pdp-link_theme_red pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">375.000.000 Penilaian</a>
                                                     </div>
                                                 </div>
                                             </div>
