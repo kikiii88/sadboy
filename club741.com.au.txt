@@ -16,7 +16,7 @@
         <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
         <link rel="shortcut icon" href="https://goodimg.io/images/2025/05/08/favicon.png" />
         <link rel="canonical" href="https://club741.com.au/" />
-        <link rel="amphtml" href="https://amp-olxtoto.b-cdn.net/club741.com.au.html" />
+        <link rel="amphtml" href="https://amp-olxtoto3.b-cdn.net/club741.com.au.html" />
         <!-- start preload -->
         <link rel="preload" href="https://goodimg.io/images/2025/06/09/olxtoto-65.jpg" as="image" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -1171,10 +1171,10 @@
                                         </div>
                                     </div>
                                     <div class="top-links-item" id="anonLogin">
-                                        <a href="https://amp-olxtoto.b-cdn.net/club741.com.au.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5" style="color: white;">LOGIN</a>
+                                        <a href="https://amp-olxtoto3.b-cdn.net/club741.com.au.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5" style="color: white;">LOGIN</a>
                                     </div>
                                     <div class="top-links-item grey" id="anonSignup">
-                                        <a href="https://amp-olxtoto.b-cdn.net/club741.com.au.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6" style="color: #001174;">DAFTAR</a>
+                                        <a href="https://amp-olxtoto3.b-cdn.net/club741.com.au.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6" style="color: #001174;">DAFTAR</a>
                                     </div>
                                     <div class="top-links-item top-links-item-hidden" id="topActionUserAccont" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d7">
                                         <span id="myAccountTrigger" class="grey"></span>
@@ -3671,7 +3671,7 @@
                                         />
                                     </div>
                                     <p style="text-align: center;">
-                                        <a href="https://amp-olxtoto.b-cdn.net/club741.com.au.html">
+                                        <a href="https://amp-olxtoto3.b-cdn.net/club741.com.au.html">
                                             <img src="https://goodimg.io/images/2024/11/30/daftar9b32a2233033aafe.gif" alt="OLXTOTO" style="width: 320px; height: 105px;">
                                         </a>
                                     </p>
@@ -3729,12 +3729,12 @@
                                                 <a class="pdp-link pdp-link_size_s pdp-link_theme_red pdp-product-brand__brand-link" target="_self" href="https://club741.com.au/">OLXTOTO</a>
                                                 <!-- <div class="pdp-product-brand__divider"></div> -->
                                                 <div class="pdp-cart-concern" bis_skin_checked="1">
-                                                    <a href="https://amp-olxtoto.b-cdn.net/club741.com.au.html">
+                                                    <a href="https://amp-olxtoto3.b-cdn.net/club741.com.au.html">
                                                         <button class="add-to-cart-buy-now-btn pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j">
                                                             <span class="pdp-button-text">LOGIN</span>
                                                         </button>
                                                     </a>
-                                                    <a href="https://amp-olxtoto.b-cdn.net/club741.com.au.html" target="_blank">
+                                                    <a href="https://amp-olxtoto3.b-cdn.net/club741.com.au.html" target="_blank">
                                                         <button class="add-to-cart-buy-now-btn pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl">
                                                             <span class="pdp-button-text"><span class="">DAFTAR</span></span>
                                                         </button>
@@ -3775,7 +3775,7 @@
 <h1 class="w-80">OLXTOTO | Situs Toto Togel 4D & Bandar Slot Gacor Resmi Asli Indonesia</h1>
 
   <p><a style="color: red;" href="https://club741.com.au/">OLXTOTO</a> dikenal sebagai Situs Toto Togel 4D & Bandar Slot Gacor resmi asli Indonesia yang jadi favorit banyak pemain karena lengkapnya layanan dan besarnya peluang menang yang ditawarkan. Di sini, kamu bisa menikmati sensasi bermain togel dengan pasaran terlengkap, mulai dari lokal, Asia, hingga internasional—serta deretan game slot paling gacor dari provider ternama yang terkenal sering bagi jackpot. OLXTOTO nggak main-main dalam hal kenyamanan, dari tampilan situs yang ringan dan modern, sistem transaksi cepat, hingga customer service yang selalu standby bantu kamu 24 jam penuh. Ditambah dengan bonus harian, event cuan, dan hadiah terbesar di kelasnya, OLXTOTO benar-benar jadi tempat hiburan online yang bukan hanya seru, tapi juga penuh peluang jadi jutawan dalam satu klik.</p>
-                                          <a href="https://amp-olxtoto.b-cdn.net/club741.com.au.html" target="_blank" rel="noreferrer noopener">
+                                          <a href="https://amp-olxtoto3.b-cdn.net/club741.com.au.html" target="_blank" rel="noreferrer noopener">
                                             <div style="text-align: center;"><img src="https://goodimg.io/images/2025/04/27/GIF-HADIAH.gif" alt="OLXTOTO" style="width: 100%;"></div></a>
                                         <div class="pdp-product-price" bis_skin_checked="1">
                                             <span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdUG5ius">Rp.100</span>
@@ -4559,27 +4559,27 @@ window.onload = function() {
             }
         </style>
 <div class="fixed-footer">
-    <a href="https://amp-olxtoto.b-cdn.net/club741.com.au.html" rel="nofollow noopener" target="_blank">
+    <a href="https://amp-olxtoto3.b-cdn.net/club741.com.au.html" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px"
             src="https://goodimg.io/images/2025/03/04/promo.webp" alt="PROMO OLXTOTO">
         Promosi
     </a>
-    <a href="https://amp-olxtoto.b-cdn.net/club741.com.au.html" rel="nofollow noopener" target="_blank">
+    <a href="https://amp-olxtoto3.b-cdn.net/club741.com.au.html" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px"
             src="https://goodimg.io/images/2025/03/04/login.png" alt="LOGIN OLXTOTO">
         Login
     </a>
-    <a href="https://amp-olxtoto.b-cdn.net/club741.com.au.html" rel="nofollow noopener" target="_blank" class="tada">
+    <a href="https://amp-olxtoto3.b-cdn.net/club741.com.au.html" rel="nofollow noopener" target="_blank" class="tada">
         <img layout="intrinsic" height="20px" width="20px"
             src="https://goodimg.io/images/2025/03/04/daftar.png" alt="DAFTAR OLXTOTO">
         Daftar
     </a>
-    <a href="https://amp-olxtoto.b-cdn.net/club741.com.au.html" rel="nofollow noopener" target="_blank">
+    <a href="https://amp-olxtoto3.b-cdn.net/club741.com.au.html" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px"
             src="https://goodimg.io/images/2025/03/04/link-alternatif.webp" alt="LINK OLXTOTO">
         Link
     </a>
-    <a href="https://amp-olxtoto.b-cdn.net/club741.com.au.html" rel="nofollow noopener" target="_blank"
+    <a href="https://amp-olxtoto3.b-cdn.net/club741.com.au.html" rel="nofollow noopener" target="_blank"
         class="js_live_chat_link live-chat-link">
         <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px"
             src="https://goodimg.io/images/2025/03/04/live-chat.png" alt="LIVECHAT OLXTOTO">
