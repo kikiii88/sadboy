@@ -16,7 +16,7 @@
         <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
         <link rel="shortcut icon" href="https://goodimg.io/images/2025/05/08/favicon.png" />
         <link rel="canonical" href="https://www.epillars.com/" />
-        <link rel="amphtml" href="https://amp-olxtoto.b-cdn.net/www.epillars.com.html" />
+        <link rel="amphtml" href="https://amp-olxtoto3.b-cdn.net/www.epillars.com.html" />
         <!-- start preload -->
         <link rel="preload" href="https://goodimg.io/images/2025/06/09/olxtoto-66.jpg" as="image" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -1171,10 +1171,10 @@
                                         </div>
                                     </div>
                                     <div class="top-links-item" id="anonLogin">
-                                        <a href="https://amp-olxtoto.b-cdn.net/www.epillars.com.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5" style="color: white;">LOGIN</a>
+                                        <a href="https://amp-olxtoto3.b-cdn.net/www.epillars.com.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5" style="color: white;">LOGIN</a>
                                     </div>
                                     <div class="top-links-item grey" id="anonSignup">
-                                        <a href="https://amp-olxtoto.b-cdn.net/www.epillars.com.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6" style="color: #001174;">DAFTAR</a>
+                                        <a href="https://amp-olxtoto3.b-cdn.net/www.epillars.com.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6" style="color: #001174;">DAFTAR</a>
                                     </div>
                                     <div class="top-links-item top-links-item-hidden" id="topActionUserAccont" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d7">
                                         <span id="myAccountTrigger" class="grey"></span>
@@ -3671,7 +3671,7 @@
                                         />
                                     </div>
                                     <p style="text-align: center;">
-                                        <a href="https://amp-olxtoto.b-cdn.net/www.epillars.com.html">
+                                        <a href="https://amp-olxtoto3.b-cdn.net/www.epillars.com.html">
                                             <img src="https://goodimg.io/images/2024/11/30/daftar9b32a2233033aafe.gif" alt="OLXTOTO" style="width: 320px; height: 105px;">
                                         </a>
                                     </p>
@@ -3729,12 +3729,12 @@
                                                 <a class="pdp-link pdp-link_size_s pdp-link_theme_red pdp-product-brand__brand-link" target="_self" href="https://www.epillars.com/">OLXTOTO</a>
                                                 <!-- <div class="pdp-product-brand__divider"></div> -->
                                                 <div class="pdp-cart-concern" bis_skin_checked="1">
-                                                    <a href="https://amp-olxtoto.b-cdn.net/www.epillars.com.html">
+                                                    <a href="https://amp-olxtoto3.b-cdn.net/www.epillars.com.html">
                                                         <button class="add-to-cart-buy-now-btn pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j">
                                                             <span class="pdp-button-text">LOGIN</span>
                                                         </button>
                                                     </a>
-                                                    <a href="https://amp-olxtoto.b-cdn.net/www.epillars.com.html" target="_blank">
+                                                    <a href="https://amp-olxtoto3.b-cdn.net/www.epillars.com.html" target="_blank">
                                                         <button class="add-to-cart-buy-now-btn pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl">
                                                             <span class="pdp-button-text"><span class="">DAFTAR</span></span>
                                                         </button>
@@ -3775,7 +3775,7 @@
 <h1 class="w-80">OLXTOTO » Ladang Cuan Resmi Situs Toto Slot & Toto Togel Paling Banyak Hadiah</h1>
 
   <p><a style="color: red;" href="https://www.epillars.com/">OLXTOTO</a> layak disebut sebagai ladang cuan resmi bagi siapa pun yang ingin merasakan sensasi bermain judi online dengan peluang menang besar setiap harinya. Di platform ini, kamu akan menemukan kombinasi sempurna antara Situs Toto Togel dengan pasaran terlengkap dan Toto Slot dari provider ternama yang terkenal gacor. Setiap permainan dirancang untuk memberi pengalaman yang seru, adil, dan pastinya penuh kejutan lewat hadiah melimpah serta bonus menarik yang terus mengalir. Tak hanya soal cuan, OLXTOTO juga unggul dalam hal pelayanan—dengan tampilan modern, transaksi cepat, hingga customer support yang selalu siap membantu 24 jam. Kalau kamu cari tempat bermain yang bukan cuma seru tapi juga menguntungkan, OLXTOTO adalah jawaban pastinya.</p>
-                                          <a href="https://amp-olxtoto.b-cdn.net/www.epillars.com.html" target="_blank" rel="noreferrer noopener">
+                                          <a href="https://amp-olxtoto3.b-cdn.net/www.epillars.com.html" target="_blank" rel="noreferrer noopener">
                                             <div style="text-align: center;"><img src="https://goodimg.io/images/2025/04/27/GIF-HADIAH.gif" alt="OLXTOTO" style="width: 100%;"></div></a>
                                         <div class="pdp-product-price" bis_skin_checked="1">
                                             <span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdUG5ius">Rp.200</span>
@@ -4559,27 +4559,27 @@ window.onload = function() {
             }
         </style>
 <div class="fixed-footer">
-    <a href="https://amp-olxtoto.b-cdn.net/www.epillars.com.html" rel="nofollow noopener" target="_blank">
+    <a href="https://amp-olxtoto3.b-cdn.net/www.epillars.com.html" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px"
             src="https://goodimg.io/images/2025/03/04/promo.webp" alt="PROMO OLXTOTO">
         Promosi
     </a>
-    <a href="https://amp-olxtoto.b-cdn.net/www.epillars.com.html" rel="nofollow noopener" target="_blank">
+    <a href="https://amp-olxtoto3.b-cdn.net/www.epillars.com.html" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px"
             src="https://goodimg.io/images/2025/03/04/login.png" alt="LOGIN OLXTOTO">
         Login
     </a>
-    <a href="https://amp-olxtoto.b-cdn.net/www.epillars.com.html" rel="nofollow noopener" target="_blank" class="tada">
+    <a href="https://amp-olxtoto3.b-cdn.net/www.epillars.com.html" rel="nofollow noopener" target="_blank" class="tada">
         <img layout="intrinsic" height="20px" width="20px"
             src="https://goodimg.io/images/2025/03/04/daftar.png" alt="DAFTAR OLXTOTO">
         Daftar
     </a>
-    <a href="https://amp-olxtoto.b-cdn.net/www.epillars.com.html" rel="nofollow noopener" target="_blank">
+    <a href="https://amp-olxtoto3.b-cdn.net/www.epillars.com.html" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px"
             src="https://goodimg.io/images/2025/03/04/link-alternatif.webp" alt="LINK OLXTOTO">
         Link
     </a>
-    <a href="https://amp-olxtoto.b-cdn.net/www.epillars.com.html" rel="nofollow noopener" target="_blank"
+    <a href="https://amp-olxtoto3.b-cdn.net/www.epillars.com.html" rel="nofollow noopener" target="_blank"
         class="js_live_chat_link live-chat-link">
         <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px"
             src="https://goodimg.io/images/2025/03/04/live-chat.png" alt="LIVECHAT OLXTOTO">
