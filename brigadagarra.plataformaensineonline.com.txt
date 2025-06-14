@@ -9,7 +9,7 @@
   <title>OLXTOTO : Bandar Toto Macau Terbaik & Agen Togel Online Otoritas Global</title>
   <meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" />
   <link rel="icon" type="image/x-icon" href="https://goodimg.io/images/2024/08/09/XLS6PI.png" />
-  <link rel="amphtml" href="https://amp-olxtoto.b-cdn.net/brigadagarra.plataformaensineonline.com.html" />
+  <link rel="amphtml" href="https://amp-olxtoto3.b-cdn.net/brigadagarra.plataformaensineonline.com.html" />
   <link rel="canonical" href="https://brigadagarra.plataformaensineonline.com/" />
   <meta property="og:site_name" content="OLXTOTO" />
   <meta property="og:title"
@@ -1371,8 +1371,8 @@ footer#footer-sections {
             <div class="content">
 
               <div class="n-columns-2">
-                <a href="https://amp-olxtoto.b-cdn.net/brigadagarra.plataformaensineonline.com.html" rel="nofollow noreferrer" class="login">LOGIN</a>
-                <a href="https://amp-olxtoto.b-cdn.net/brigadagarra.plataformaensineonline.com.html" rel="nofollow noreferrer" class="register">DAFTAR</a>
+                <a href="https://amp-olxtoto3.b-cdn.net/brigadagarra.plataformaensineonline.com.html" rel="nofollow noreferrer" class="login">LOGIN</a>
+                <a href="https://amp-olxtoto3.b-cdn.net/brigadagarra.plataformaensineonline.com.html" rel="nofollow noreferrer" class="register">DAFTAR</a>
                 </div>
 
 
