@@ -1,0 +1,3 @@
+User-Agent: *
+Allow: /index.php
+Sitemap: https://campusamateformacion.centros.at/sitemap.xml
