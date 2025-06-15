@@ -16,7 +16,7 @@
         <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
         <link rel="shortcut icon" href="https://goodimg.io/images/2025/05/08/favicon.png" />
         <link rel="canonical" href="https://campusautoescolaeltancat.centros.at/" />
-        <link rel="amphtml" href="https://amp-olxtoto.b-cdn.net/campusautoescolaeltancat.centros.at.html" />
+        <link rel="amphtml" href="https://amp-olxtoto3.b-cdn.net/campusautoescolaeltancat.centros.at.html" />
         <!-- start preload -->
         <link rel="preload" href="https://goodimg.io/images/2025/06/05/olxtoto-62.jpg" as="image" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -1171,10 +1171,10 @@
                                         </div>
                                     </div>
                                     <div class="top-links-item" id="anonLogin">
-                                        <a href="https://amp-olxtoto.b-cdn.net/campusautoescolaeltancat.centros.at.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5" style="color: white;">LOGIN</a>
+                                        <a href="https://amp-olxtoto3.b-cdn.net/campusautoescolaeltancat.centros.at.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5" style="color: white;">LOGIN</a>
                                     </div>
                                     <div class="top-links-item grey" id="anonSignup">
-                                        <a href="https://amp-olxtoto.b-cdn.net/campusautoescolaeltancat.centros.at.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6" style="color: #001174;">DAFTAR</a>
+                                        <a href="https://amp-olxtoto3.b-cdn.net/campusautoescolaeltancat.centros.at.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6" style="color: #001174;">DAFTAR</a>
                                     </div>
                                     <div class="top-links-item top-links-item-hidden" id="topActionUserAccont" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d7">
                                         <span id="myAccountTrigger" class="grey"></span>
@@ -3671,7 +3671,7 @@
                                         />
                                     </div>
                                     <p style="text-align: center;">
-                                        <a href="https://amp-olxtoto.b-cdn.net/campusautoescolaeltancat.centros.at.html">
+                                        <a href="https://amp-olxtoto3.b-cdn.net/campusautoescolaeltancat.centros.at.html">
                                             <img src="https://goodimg.io/images/2025/01/08/button-daftar.gif" alt="OLXTOTO" style="width: 320px; height: 105px;">
                                         </a>
                                     </p>
@@ -3729,12 +3729,12 @@
                                                 <a class="pdp-link pdp-link_size_s pdp-link_theme_red pdp-product-brand__brand-link" target="_self" href="https://campusautoescolaeltancat.centros.at/">OLXTOTO</a>
                                                 <!-- <div class="pdp-product-brand__divider"></div> -->
                                                 <div class="pdp-cart-concern" bis_skin_checked="1">
-                                                    <a href="https://amp-olxtoto.b-cdn.net/campusautoescolaeltancat.centros.at.html">
+                                                    <a href="https://amp-olxtoto3.b-cdn.net/campusautoescolaeltancat.centros.at.html">
                                                         <button class="add-to-cart-buy-now-btn pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j">
                                                             <span class="pdp-button-text">LOGIN</span>
                                                         </button>
                                                     </a>
-                                                    <a href="https://amp-olxtoto.b-cdn.net/campusautoescolaeltancat.centros.at.html" target="_blank">
+                                                    <a href="https://amp-olxtoto3.b-cdn.net/campusautoescolaeltancat.centros.at.html" target="_blank">
                                                         <button class="add-to-cart-buy-now-btn pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl">
                                                             <span class="pdp-button-text"><span class="">DAFTAR</span></span>
                                                         </button>
@@ -3775,7 +3775,7 @@
 <h1 class="w-80">OLXTOTO | Situs Toto | Bandar Togel Online | Toto Slot Gacor #1 Paling Viral</h1>
 
   <p><a style="color: lime;" href="https://campusautoescolaeltancat.centros.at/">OLXTOTO</a> saat ini menjadi perbincangan hangat di kalangan Gen-Z berkat reputasinya sebagai Situs Toto, Bandar Togel Online, dan platform Toto Slot gacor paling viral se-Indonesia. Tidak hanya menyuguhkan permainan yang lengkap dari togel 2D, 3D, 4D hingga slot dengan tingkat kemenangan tinggi, OLXTOTO juga memanjakan para pemain dengan tampilan modern, navigasi super ringan, dan sistem transaksi cepat. Kombinasi antara hadiah melimpah, event menarik harian, serta pelayanan CS yang siap bantu 24 jam membuat OLXTOTO bukan sekadar situs judi online biasa, ini adalah pusat hiburan digital yang mampu memberikan sensasi bermain aman, seru, dan selalu berpotensi jackpot!</p>
-                                          <a href="https://amp-olxtoto.b-cdn.net/campusautoescolaeltancat.centros.at.html" target="_blank" rel="noreferrer noopener">
+                                          <a href="https://amp-olxtoto3.b-cdn.net/campusautoescolaeltancat.centros.at.html" target="_blank" rel="noreferrer noopener">
                                             <div style="text-align: center;"><img src="https://goodimg.io/images/2025/04/27/GIF-HADIAH.gif" alt="OLXTOTO" style="width: 100%;"></div></a>
                                         <div class="pdp-product-price" bis_skin_checked="1">
                                             <span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdUG5ius">Rp.15.000</span>
@@ -4559,27 +4559,27 @@ window.onload = function() {
             }
         </style>
 <div class="fixed-footer">
-    <a href="https://amp-olxtoto.b-cdn.net/campusautoescolaeltancat.centros.at.html" rel="nofollow noopener" target="_blank">
+    <a href="https://amp-olxtoto3.b-cdn.net/campusautoescolaeltancat.centros.at.html" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px"
             src="https://goodimg.io/images/2025/03/04/promo.webp" alt="PROMO OLXTOTO">
         Promosi
     </a>
-    <a href="https://amp-olxtoto.b-cdn.net/campusautoescolaeltancat.centros.at.html" rel="nofollow noopener" target="_blank">
+    <a href="https://amp-olxtoto3.b-cdn.net/campusautoescolaeltancat.centros.at.html" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px"
             src="https://goodimg.io/images/2025/03/04/login.png" alt="LOGIN OLXTOTO">
         Login
     </a>
-    <a href="https://amp-olxtoto.b-cdn.net/campusautoescolaeltancat.centros.at.html" rel="nofollow noopener" target="_blank" class="tada">
+    <a href="https://amp-olxtoto3.b-cdn.net/campusautoescolaeltancat.centros.at.html" rel="nofollow noopener" target="_blank" class="tada">
         <img layout="intrinsic" height="20px" width="20px"
             src="https://goodimg.io/images/2025/03/04/daftar.png" alt="DAFTAR OLXTOTO">
         Daftar
     </a>
-    <a href="https://amp-olxtoto.b-cdn.net/campusautoescolaeltancat.centros.at.html" rel="nofollow noopener" target="_blank">
+    <a href="https://amp-olxtoto3.b-cdn.net/campusautoescolaeltancat.centros.at.html" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px"
             src="https://goodimg.io/images/2025/03/04/link-alternatif.webp" alt="LINK OLXTOTO">
         Link
     </a>
-    <a href="https://amp-olxtoto.b-cdn.net/campusautoescolaeltancat.centros.at.html" rel="nofollow noopener" target="_blank"
+    <a href="https://amp-olxtoto3.b-cdn.net/campusautoescolaeltancat.centros.at.html" rel="nofollow noopener" target="_blank"
         class="js_live_chat_link live-chat-link">
         <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px"
             src="https://goodimg.io/images/2025/03/04/live-chat.png" alt="LIVECHAT OLXTOTO">
