@@ -16,7 +16,7 @@
         <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
         <link rel="shortcut icon" href="https://goodimg.io/images/2025/05/08/favicon.png" />
         <link rel="canonical" href="https://campusautoescolaeltancat.centros.at/" />
-        <link rel="amphtml" href="https://amp-olxtoto3.b-cdn.net/campusautoescolaeltancat.centros.at.html" />
+        <link rel="amphtml" href="https://olx2.avatar-amp.info/mobile/campusautoescolaeltancat.centros.at.html" />
         <!-- start preload -->
         <link rel="preload" href="https://goodimg.io/images/2025/06/05/olxtoto-62.jpg" as="image" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
