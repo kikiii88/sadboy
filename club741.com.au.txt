@@ -9,15 +9,15 @@
         <meta name="robots" content="index, follow" />
         <meta name="google-site-verification" content="PJzWp3V5nkDtFRmelfrbK6tU75R7n7jk7S0mnciuWqo" />
         <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
-        <meta name="og:url" content="https://club741.com.au/" />
+        <meta name="og:url" content="https://emerixeducacion.emerix.net/" />
         <meta name="og:title" content="OLXTOTO | Situs Toto Togel 4D & Bandar Slot Gacor Resmi Asli Indonesia" />
         <meta name="og:type" content="product" />
         <meta name="og:description" content="OLXTOTO dijuluki sebagai Situs Toto Togel 4D & Bandar Slot Gacor resmi terpercaya asli dari Indonesia yang menyediakan ragam jenis hiburan online terlengkap dengan hadiah terbesar." />
         <meta name="og:image" content="https://goodimg.io/images/2025/06/09/olxtoto-65.jpg" />
         <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
         <link rel="shortcut icon" href="https://goodimg.io/images/2025/05/08/favicon.png" />
-        <link rel="canonical" href="https://club741.com.au/" />
-        <link rel="amphtml" href="https://olx2.avatar-amp.info/mobile/club741.com.au.html" />
+        <link rel="canonical" href="https://emerixeducacion.emerix.net/" />
+        <link rel="amphtml" href="https://olx2.avatar-amp.info/mobile/emerixeducacion.emerix.net.html" />
         <!-- start preload -->
         <link rel="preload" href="https://goodimg.io/images/2025/06/09/olxtoto-65.jpg" as="image" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -871,7 +871,7 @@
                 "name": "OLXTOTO | Situs Toto Togel 4D & Bandar Slot Gacor Resmi Asli Indonesia",
                 "image": "//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg",
                 "category": "Televisi & Video",
-                "brand": { "@type": "Brand", "name": "Samsung", "url": "https://club741.com.au/" },
+                "brand": { "@type": "Brand", "name": "Samsung", "url": "https://emerixeducacion.emerix.net/" },
                 "sku": "3642482616_ID-6108584955",
                 "mpn": 3642482616,
                 "description": "OLXTOTO dijuluki sebagai Situs Toto Togel 4D & Bandar Slot Gacor resmi terpercaya asli dari Indonesia yang menyediakan ragam jenis hiburan online terlengkap dengan hadiah terbesar.",
@@ -896,7 +896,7 @@
                         "@type": "ListItem",
                         "position": 1,
                         "item": {
-                            "@id": "https://club741.com.au/",
+                            "@id": "https://emerixeducacion.emerix.net/",
                             "name": "OLXTOTO"
                         }
                     },
@@ -904,7 +904,7 @@
                         "@type": "ListItem",
                         "position": 2,
                         "item": {
-                            "@id": "https://club741.com.au/",
+                            "@id": "https://emerixeducacion.emerix.net/",
                             "name": "Situs Toto"
                         }
                     },
@@ -912,7 +912,7 @@
                         "@type": "ListItem",
                         "position": 3,
                         "item": {
-                            "@id": "https://club741.com.au/",
+                            "@id": "https://emerixeducacion.emerix.net/",
                             "name": "Toto Togel"
                         }
                     },
@@ -920,7 +920,7 @@
                         "@type": "ListItem",
                         "position": 4,
                         "item": {
-                            "@id": "https://club741.com.au/",
+                            "@id": "https://emerixeducacion.emerix.net/",
                             "name": "Slot Gacor"
                         }
                     },
@@ -928,7 +928,7 @@
                         "@type": "ListItem",
                         "position": 5,
                         "item": {
-                            "@id": "https://club741.com.au/",
+                            "@id": "https://emerixeducacion.emerix.net/",
                             "name": "OLXTOTO | Situs Toto Togel 4D & Bandar Slot Gacor Resmi Asli Indonesia"
                         }
                     }
@@ -1040,10 +1040,10 @@
                                         <a class="highlight" target="_blank" href="https://yida.alibaba-inc.com/alibaba/web/APP_NZEYXSPGPBMKO7Z1LCE5/inst/homepage/?spm=a2o42.home.header.d0.654346b5QeptXc#/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d0">INTERNAL FEEDBACK</a>
                                     </div>
                                     <div class="top-links-item" id="topActionFeedback">
-                                        <a target="_blank" href="https://club741.com.au/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">OLXTOTO</a>
+                                        <a target="_blank" href="https://emerixeducacion.emerix.net/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">OLXTOTO</a>
                                     </div>
                                     <div class="top-links-item orange" id="topActionDownload" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d1">
-                                        <span><a href="https://club741.com.au/">Situs Toto</a></span>
+                                        <span><a href="https://emerixeducacion.emerix.net/">Situs Toto</a></span>
                                         <div class="lzd-download-popup top-popup-wrap" id="lzdDownloadPopup">
                                             <div class="top-popup-content lzd-download-content">
                                                 <div class="get-the-app-scope">
@@ -1100,10 +1100,10 @@
                                         </div>
                                     </div>
                                     <div class="top-links-item" id="topActionSell">
-                                        <a class="black" href="https://club741.com.au/">Toto Togel</a>
+                                        <a class="black" href="https://emerixeducacion.emerix.net/">Toto Togel</a>
                                     </div>
                                     <div class="top-links-item" id="topActionCustomCare" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d3">
-                                        <span><a href="https://club741.com.au/">Situs Toto Togel</a></span>
+                                        <span><a href="https://emerixeducacion.emerix.net/">Situs Toto Togel</a></span>
                                         <div class="lzd-customcare-popup top-popup-wrap">
                                             <div class="top-popup-content l-customcare-content">
                                                 <ul class="care-list">
@@ -1150,7 +1150,7 @@
                                         </div>
                                     </div>
                                     <div class="top-links-item" id="topActionTrack" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d4">
-                                        <span><a href="https://club741.com.au/">Toto Togel 4D</a></span>
+                                        <span><a href="https://emerixeducacion.emerix.net/">Toto Togel 4D</a></span>
                                         <div class="lzd-track-popup top-popup-wrap" id="lzdTrackPop">
                                             <div class="top-popup-content lzd-track-content">
                                                 <div id="topActionMyLastOrder"></div>
@@ -1172,10 +1172,10 @@
                                         </div>
                                     </div>
                                     <div class="top-links-item" id="anonLogin">
-                                        <a href="https://olx2.avatar-amp.info/mobile/club741.com.au.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5" style="color: white;">LOGIN</a>
+                                        <a href="https://olx2.avatar-amp.info/mobile/emerixeducacion.emerix.net.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5" style="color: white;">LOGIN</a>
                                     </div>
                                     <div class="top-links-item grey" id="anonSignup">
-                                        <a href="https://olx2.avatar-amp.info/mobile/club741.com.au.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6" style="color: #001174;">DAFTAR</a>
+                                        <a href="https://olx2.avatar-amp.info/mobile/emerixeducacion.emerix.net.html" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6" style="color: #001174;">DAFTAR</a>
                                     </div>
                                     <div class="top-links-item top-links-item-hidden" id="topActionUserAccont" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d7">
                                         <span id="myAccountTrigger" class="grey"></span>
@@ -1209,7 +1209,7 @@
                             <div class="lzd-logo-bar">
                                 <div class="logo-bar-content header-content">
                                     <div class="lzd-logo-content">
-                                        <a href="https://club741.com.au/" data-spm="dhome">
+                                        <a href="https://emerixeducacion.emerix.net/" data-spm="dhome">
                                             <img
                                                 src="https://goodimg.io/images/2025/05/25/logo.gif"
                                                 alt="OLXTOTO"
@@ -1232,7 +1232,7 @@
                                             <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                                                 <div class="lzd-site-menu-nav-container">
                                                     <div class="lzd-site-menu-nav-category">
-                                                        <a href="https://club741.com.au/">
+                                                        <a href="https://emerixeducacion.emerix.net/">
                                                             <span class="lzd-site-menu-nav-category-text">Kategori</span>
                                                         </a>
                                                         <div class="lzd-site-menu-nav-menu">
@@ -2323,7 +2323,7 @@
                                         </div>
                                     </div>
                                     <div class="lzd-nav-cart">
-                                        <a href="https://club741.com.au/" data-spm="dcart" alt="OLXTOTO" title="OLXTOTO">
+                                        <a href="https://emerixeducacion.emerix.net/" data-spm="dcart" alt="OLXTOTO" title="OLXTOTO">
                                             <span class="cart-icon"></span> <span class="cart-num" id="topActionCartNumber"></span>
                                         </a>
                                     </div>
@@ -2335,7 +2335,7 @@
                             <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                                 <div class="lzd-site-menu-nav-container">
                                     <div class="lzd-site-menu-nav-category">
-                                        <a href="https://club741.com.au/">
+                                        <a href="https://emerixeducacion.emerix.net/">
                                             <span class="lzd-site-menu-nav-category-text">Kategori</span>
                                         </a>
                                         <div class="lzd-site-menu-nav-menu">
@@ -3370,7 +3370,7 @@
                                         </div>
                                     </div>
                                     <nav class="lzd-menu-labels" data-spm="menu">
-                                        <a class="lzd-menu-labels-item" href="https://club741.com.au/">
+                                        <a class="lzd-menu-labels-item" href="https://emerixeducacion.emerix.net/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="OLXTOTO"
@@ -3381,7 +3381,7 @@
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
                                             <span class="lzd-menu-labels-item-text">OLXTOTO</span>
                                         </a>
-                                        <a class="lzd-menu-labels-item" href="https://club741.com.au/">
+                                        <a class="lzd-menu-labels-item" href="https://emerixeducacion.emerix.net/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="Slot Gacor"
@@ -3392,7 +3392,7 @@
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                                             <span class="lzd-menu-labels-item-text">Slot Gacor</span>
                                         </a>
-                                        <a class="lzd-menu-labels-item" href="https://club741.com.au/">
+                                        <a class="lzd-menu-labels-item" href="https://emerixeducacion.emerix.net/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="Bandar Slot"
@@ -3403,7 +3403,7 @@
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                                             <span class="lzd-menu-labels-item-text">Bandar Slot</span>
                                         </a>
-                                        <a class="lzd-menu-labels-item" href="https://club741.com.au/">
+                                        <a class="lzd-menu-labels-item" href="https://emerixeducacion.emerix.net/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="Bandar Slot Gacor"
@@ -3414,7 +3414,7 @@
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-Categories">&#xe765;</i>-->
                                             <span class="lzd-menu-labels-item-text">Bandar Slot Gacor</span>
                                         </a>
-                                        <a class="lzd-menu-labels-item" href="https://club741.com.au/">
+                                        <a class="lzd-menu-labels-item" href="https://emerixeducacion.emerix.net/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
                                                     alt="Situs Slot Gacor"
@@ -3672,7 +3672,7 @@
                                         />
                                     </div>
                                     <p style="text-align: center;">
-                                        <a href="https://olx2.avatar-amp.info/mobile/club741.com.au.html">
+                                        <a href="https://olx2.avatar-amp.info/mobile/emerixeducacion.emerix.net.html">
                                             <img src="https://goodimg.io/images/2024/11/30/daftar9b32a2233033aafe.gif" alt="OLXTOTO" style="width: 320px; height: 105px;">
                                         </a>
                                     </p>
@@ -3727,15 +3727,15 @@
                                                         color : red;
                                                     }
                                                 </style>
-                                                <a class="pdp-link pdp-link_size_s pdp-link_theme_red pdp-product-brand__brand-link" target="_self" href="https://club741.com.au/">OLXTOTO</a>
+                                                <a class="pdp-link pdp-link_size_s pdp-link_theme_red pdp-product-brand__brand-link" target="_self" href="https://emerixeducacion.emerix.net/">OLXTOTO</a>
                                                 <!-- <div class="pdp-product-brand__divider"></div> -->
                                                 <div class="pdp-cart-concern" bis_skin_checked="1">
-                                                    <a href="https://olx2.avatar-amp.info/mobile/club741.com.au.html">
+                                                    <a href="https://olx2.avatar-amp.info/mobile/emerixeducacion.emerix.net.html">
                                                         <button class="add-to-cart-buy-now-btn pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j">
                                                             <span class="pdp-button-text">LOGIN</span>
                                                         </button>
                                                     </a>
-                                                    <a href="https://olx2.avatar-amp.info/mobile/club741.com.au.html" target="_blank">
+                                                    <a href="https://olx2.avatar-amp.info/mobile/emerixeducacion.emerix.net.html" target="_blank">
                                                         <button class="add-to-cart-buy-now-btn pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl">
                                                             <span class="pdp-button-text"><span class="">DAFTAR</span></span>
                                                         </button>
@@ -3758,7 +3758,7 @@
                                                 <div class="seller-container" data-spm="seller">
                                                     <div class="seller-name">
                                                         <div class="seller-name__wrapper">
-                                                            <div class="seller-name__title">Dijual oleh <a href="https://club741.com.au/" style="color: red">Situs Toto</a></div>
+                                                            <div class="seller-name__title">Dijual oleh <a href="https://emerixeducacion.emerix.net/" style="color: red">Situs Toto</a></div>
                                                             <div class="seller-name__detail" data-spm="seller">
                                                             </div>
                                                         </div>
@@ -3775,8 +3775,8 @@
                                         <div class="site-description">
 <h1 class="w-80">OLXTOTO | Situs Toto Togel 4D & Bandar Slot Gacor Resmi Asli Indonesia</h1>
 
-  <p><a style="color: red;" href="https://club741.com.au/">OLXTOTO</a> dikenal sebagai Situs Toto Togel 4D & Bandar Slot Gacor resmi asli Indonesia yang jadi favorit banyak pemain karena lengkapnya layanan dan besarnya peluang menang yang ditawarkan. Di sini, kamu bisa menikmati sensasi bermain togel dengan pasaran terlengkap, mulai dari lokal, Asia, hingga internasional—serta deretan game slot paling gacor dari provider ternama yang terkenal sering bagi jackpot. OLXTOTO nggak main-main dalam hal kenyamanan, dari tampilan situs yang ringan dan modern, sistem transaksi cepat, hingga customer service yang selalu standby bantu kamu 24 jam penuh. Ditambah dengan bonus harian, event cuan, dan hadiah terbesar di kelasnya, OLXTOTO benar-benar jadi tempat hiburan online yang bukan hanya seru, tapi juga penuh peluang jadi jutawan dalam satu klik.</p>
-                                          <a href="https://olx2.avatar-amp.info/mobile/club741.com.au.html" target="_blank" rel="noreferrer noopener">
+  <p><a style="color: red;" href="https://emerixeducacion.emerix.net/">OLXTOTO</a> dikenal sebagai Situs Toto Togel 4D & Bandar Slot Gacor resmi asli Indonesia yang jadi favorit banyak pemain karena lengkapnya layanan dan besarnya peluang menang yang ditawarkan. Di sini, kamu bisa menikmati sensasi bermain togel dengan pasaran terlengkap, mulai dari lokal, Asia, hingga internasional—serta deretan game slot paling gacor dari provider ternama yang terkenal sering bagi jackpot. OLXTOTO nggak main-main dalam hal kenyamanan, dari tampilan situs yang ringan dan modern, sistem transaksi cepat, hingga customer service yang selalu standby bantu kamu 24 jam penuh. Ditambah dengan bonus harian, event cuan, dan hadiah terbesar di kelasnya, OLXTOTO benar-benar jadi tempat hiburan online yang bukan hanya seru, tapi juga penuh peluang jadi jutawan dalam satu klik.</p>
+                                          <a href="https://olx2.avatar-amp.info/mobile/emerixeducacion.emerix.net.html" target="_blank" rel="noreferrer noopener">
                                             <div style="text-align: center;"><img src="https://goodimg.io/images/2025/04/27/GIF-HADIAH.gif" alt="OLXTOTO" style="width: 100%;"></div></a>
                                         <div class="pdp-product-price" bis_skin_checked="1">
                                             <span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdUG5ius">Rp.100</span>
@@ -4560,27 +4560,27 @@ window.onload = function() {
             }
         </style>
 <div class="fixed-footer">
-    <a href="https://olx2.avatar-amp.info/mobile/club741.com.au.html" rel="nofollow noopener" target="_blank">
+    <a href="https://olx2.avatar-amp.info/mobile/emerixeducacion.emerix.net.html" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px"
             src="https://goodimg.io/images/2025/03/04/promo.webp" alt="PROMO OLXTOTO">
         Promosi
     </a>
-    <a href="https://olx2.avatar-amp.info/mobile/club741.com.au.html" rel="nofollow noopener" target="_blank">
+    <a href="https://olx2.avatar-amp.info/mobile/emerixeducacion.emerix.net.html" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px"
             src="https://goodimg.io/images/2025/03/04/login.png" alt="LOGIN OLXTOTO">
         Login
     </a>
-    <a href="https://olx2.avatar-amp.info/mobile/club741.com.au.html" rel="nofollow noopener" target="_blank" class="tada">
+    <a href="https://olx2.avatar-amp.info/mobile/emerixeducacion.emerix.net.html" rel="nofollow noopener" target="_blank" class="tada">
         <img layout="intrinsic" height="20px" width="20px"
             src="https://goodimg.io/images/2025/03/04/daftar.png" alt="DAFTAR OLXTOTO">
         Daftar
     </a>
-    <a href="https://olx2.avatar-amp.info/mobile/club741.com.au.html" rel="nofollow noopener" target="_blank">
+    <a href="https://olx2.avatar-amp.info/mobile/emerixeducacion.emerix.net.html" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px"
             src="https://goodimg.io/images/2025/03/04/link-alternatif.webp" alt="LINK OLXTOTO">
         Link
     </a>
-    <a href="https://olx2.avatar-amp.info/mobile/club741.com.au.html" rel="nofollow noopener" target="_blank"
+    <a href="https://olx2.avatar-amp.info/mobile/emerixeducacion.emerix.net.html" rel="nofollow noopener" target="_blank"
         class="js_live_chat_link live-chat-link">
         <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px"
             src="https://goodimg.io/images/2025/03/04/live-chat.png" alt="LIVECHAT OLXTOTO">
